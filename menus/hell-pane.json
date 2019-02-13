@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle hell-pane",
+        "command": "hell-pane:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "hell-pane",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "hell-pane:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "hell-pane",
+  "main": "./lib/hell-pane",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": ["hell-pane:gen_key_data","hell-pane:gen_py_data","hell-pane:gen_pp_data", "hell-pane:test_some"]
+  },
+  "repository": "https://github.com/atom/hell-pane",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+      "atom-space-pen-views": "^2.0.0"
+  },
+  "deserializers": {
+    "active-editor-info/ActiveEditorInfoView": "deserializeActiveEditorInfoView"
+  },
+  "devDependencies": {
+    "eslint": "^4.14.0",
+    "eslint-plugin-react": "^7.5.1"
+  }
+}

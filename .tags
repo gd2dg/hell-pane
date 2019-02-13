@@ -1,0 +1,40 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+atom-workspace	C:\Users\Pythonic\github\hell-pane\keymaps\hell-pane.json	/^  "atom-workspace": {$/;"	function	line:2
+ctrl-alt-o	C:\Users\Pythonic\github\hell-pane\keymaps\hell-pane.json	/^    "ctrl-alt-o": "hell-pane:toggle"$/;"	function	line:3
+constructor	C:\Users\Pythonic\github\hell-pane\lib\hell-pane-view.js	/^  constructor(serializedState) {$/;"	function	line:5
+serialize	C:\Users\Pythonic\github\hell-pane\lib\hell-pane-view.js	/^  serialize() {}$/;"	function	line:18
+destroy	C:\Users\Pythonic\github\hell-pane\lib\hell-pane-view.js	/^  destroy() {$/;"	function	line:21
+getElement	C:\Users\Pythonic\github\hell-pane\lib\hell-pane-view.js	/^  getElement() {$/;"	function	line:25
+activate	C:\Users\Pythonic\github\hell-pane\lib\hell-pane.js	/^  activate(state) {$/;"	function	line:12
+deactivate	C:\Users\Pythonic\github\hell-pane\lib\hell-pane.js	/^  deactivate() {$/;"	function	line:28
+serialize	C:\Users\Pythonic\github\hell-pane\lib\hell-pane.js	/^  serialize() {$/;"	function	line:34
+toggle	C:\Users\Pythonic\github\hell-pane\lib\hell-pane.js	/^  toggle() {$/;"	function	line:40
+context-menu	C:\Users\Pythonic\github\hell-pane\menus\hell-pane.json	/^  "context-menu": {$/;"	function	line:2
+atom-text-editor	C:\Users\Pythonic\github\hell-pane\menus\hell-pane.json	/^    "atom-text-editor": [$/;"	function	line:3
+label	C:\Users\Pythonic\github\hell-pane\menus\hell-pane.json	/^        "label": "Toggle hell-pane",$/;"	function	line:5
+command	C:\Users\Pythonic\github\hell-pane\menus\hell-pane.json	/^        "command": "hell-pane:toggle"$/;"	function	line:6
+menu	C:\Users\Pythonic\github\hell-pane\menus\hell-pane.json	/^  "menu": [$/;"	function	line:10
+label	C:\Users\Pythonic\github\hell-pane\menus\hell-pane.json	/^      "label": "Packages",$/;"	function	line:12
+submenu	C:\Users\Pythonic\github\hell-pane\menus\hell-pane.json	/^      "submenu": [$/;"	function	line:13
+label	C:\Users\Pythonic\github\hell-pane\menus\hell-pane.json	/^          "label": "hell-pane",$/;"	function	line:15
+submenu	C:\Users\Pythonic\github\hell-pane\menus\hell-pane.json	/^          "submenu": [$/;"	function	line:16
+label	C:\Users\Pythonic\github\hell-pane\menus\hell-pane.json	/^              "label": "Toggle",$/;"	function	line:18
+command	C:\Users\Pythonic\github\hell-pane\menus\hell-pane.json	/^              "command": "hell-pane:toggle"$/;"	function	line:19
+name	C:\Users\Pythonic\github\hell-pane\package.json	/^  "name": "hell-pane",$/;"	function	line:2
+main	C:\Users\Pythonic\github\hell-pane\package.json	/^  "main": ".\/lib\/hell-pane",$/;"	function	line:3
+version	C:\Users\Pythonic\github\hell-pane\package.json	/^  "version": "0.0.0",$/;"	function	line:4
+description	C:\Users\Pythonic\github\hell-pane\package.json	/^  "description": "A short description of your package",$/;"	function	line:5
+keywords	C:\Users\Pythonic\github\hell-pane\package.json	/^  "keywords": [$/;"	function	line:6
+activationCommands	C:\Users\Pythonic\github\hell-pane\package.json	/^  "activationCommands": {$/;"	function	line:8
+atom-workspace	C:\Users\Pythonic\github\hell-pane\package.json	/^    "atom-workspace": "hell-pane:toggle"$/;"	function	line:9
+repository	C:\Users\Pythonic\github\hell-pane\package.json	/^  "repository": "https:\/\/github.com\/atom\/hell-pane",$/;"	function	line:11
+license	C:\Users\Pythonic\github\hell-pane\package.json	/^  "license": "MIT",$/;"	function	line:12
+engines	C:\Users\Pythonic\github\hell-pane\package.json	/^  "engines": {$/;"	function	line:13
+atom	C:\Users\Pythonic\github\hell-pane\package.json	/^    "atom": ">=1.0.0 <2.0.0"$/;"	function	line:14
+dependencies	C:\Users\Pythonic\github\hell-pane\package.json	/^  "dependencies": {$/;"	function	line:16
+.hell-pane	C:\Users\Pythonic\github\hell-pane\styles\hell-pane.less	/^.hell-pane {$/;"	function	line:7
