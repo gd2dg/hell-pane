@@ -1,6 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-m": "hell-pane:toggle",
+    "ctrl-alt-p": "hell-pane:gen_youdao",
     "ctrl-alt-k": "hell-pane:gen_key_data"
   }
 }
