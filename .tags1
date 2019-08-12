@@ -4,17 +4,3 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-activate	C:\Users\Tang\.atom\packages\hell-pane\lib\hell-pane.js	/^    activate(state) {$/;"	function	line:18
-deactivate	C:\Users\Tang\.atom\packages\hell-pane\lib\hell-pane.js	/^    deactivate() {$/;"	function	line:48
-serialize	C:\Users\Tang\.atom\packages\hell-pane\lib\hell-pane.js	/^    serialize() {$/;"	function	line:54
-gen_data	C:\Users\Tang\.atom\packages\hell-pane\lib\hell-pane.js	/^    gen_data(Type){$/;"	function	line:60
-switch	C:\Users\Tang\.atom\packages\hell-pane\lib\hell-pane.js	/^                switch (Type) {$/;"	function	line:67
-ParserMod	C:\Users\Tang\.atom\packages\hell-pane\lib\hell-pane.js	/^    ParserMod(sSpec){$/;"	function	line:107
-modSpec	C:\Users\Tang\.atom\packages\hell-pane\lib\hell-pane.js	/^        var modSpec = sList[0];$/;"	variable	line:109
-dataList	C:\Users\Tang\.atom\packages\hell-pane\lib\hell-pane.js	/^        var dataList = sList.slice(1);$/;"	variable	line:110
-specList	C:\Users\Tang\.atom\packages\hell-pane\lib\hell-pane.js	/^        var specList = modSpec.split(',');$/;"	variable	line:112
-modType	C:\Users\Tang\.atom\packages\hell-pane\lib\hell-pane.js	/^        var modType = specList[0];$/;"	variable	line:113
-obj	C:\Users\Tang\.atom\packages\hell-pane\lib\hell-pane.js	/^        var obj = null;$/;"	variable	line:114
-switch	C:\Users\Tang\.atom\packages\hell-pane\lib\hell-pane.js	/^        switch (modType) {$/;"	function	line:116
-deserializeActiveEditorInfoView	C:\Users\Tang\.atom\packages\hell-pane\lib\hell-pane.js	/^    deserializeActiveEditorInfoView(serialized) {$/;"	function	line:131
-test_some	C:\Users\Tang\.atom\packages\hell-pane\lib\hell-pane.js	/^    test_some(){$/;"	function	line:135
