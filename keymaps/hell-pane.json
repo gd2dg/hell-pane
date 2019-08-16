@@ -2,6 +2,7 @@
   "atom-workspace": {
     "ctrl-alt-p": "hell-pane:gen_youdao",
     "ctrl-alt-k": "hell-pane:gen_key_data",
-    "alt-shift-p": "hell-pane:do_some"
+    "alt-shift-p": "hell-pane:do_some",
+    "alt-shift-l": "hell-pane:open_config"
   }
 }
