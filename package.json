@@ -11,7 +11,10 @@
   },
   "dependencies": {
     "atom-space-pen-views": "^2.0.0",
-    "xml2js": "^0.4.19"
+    "xml2js": "^0.4.19",
+    "puppeteer-firefox": "0.5.0",
+    "request": "^2.79.0",
+    "jsdom": "^15.1.1"
   },
   "deserializers": {
     "active-editor-info/ActiveEditorInfoView": "deserializeActiveEditorInfoView"
