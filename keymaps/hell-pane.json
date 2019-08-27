@@ -4,6 +4,7 @@
     "ctrl-alt-k": "hell-pane:gen_key_data",
     "alt-shift-p": "hell-pane:do_some",
     "alt-shift-l": "hell-pane:open_config",
-    "alt-shift-m": "hell-pane:down_dict"
+    "alt-shift-f": "hell-pane:down_dict",
+    "alt-shift-n": "hell-pane:down_news"
   }
 }
