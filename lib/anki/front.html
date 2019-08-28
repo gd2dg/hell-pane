@@ -1,0 +1,26 @@
+<head>
+<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js">
+</script>
+</head>
+
+<div class="my-question field-box">
+{{Front}} ？
+
+    <audio id="bgMusic" autoplay > <source id="bgSource" src={{Front}} type="audio/mp3"> </audio>
+<!-- <audio id="player" controls="control" style="width:95px;display: inline;"> <source src="http://cgdict.com/mp3/pentagon_am.mp3" /> </audio> -->
+<!-- <p id="first">ssss </p> -->
+ </div>
+
+ <script >
+     window.onload=function(){
+         var bgm = document.getElementById('bgMusic');
+         var source = document.getElementById('bgSource');
+         var head = 'http://cgdict.com/mp3/';
+         var word = {{Front}};
+         var url = head + word + '_am.mp3';
+         source.src=url;
+         audio.addEventListener("canplaythrough",function(){
+                    audio.play();
+                 },false);
+ }
+ </script>
