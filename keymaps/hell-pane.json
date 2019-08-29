@@ -5,6 +5,7 @@
     "alt-shift-p": "hell-pane:do_some",
     "alt-shift-l": "hell-pane:open_config",
     "alt-shift-f": "hell-pane:down_dict",
-    "alt-shift-n": "hell-pane:down_news"
+    "alt-shift-n": "hell-pane:down_news",
+    "alt-shift-s": "hell-pane:get_brief"
   }
 }
