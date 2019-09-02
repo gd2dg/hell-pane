@@ -1,0 +1,37 @@
+.card {
+    font:微软雅黑;
+    font-size: 20px;
+    background-color: rgb(38, 50, 56);
+}
+
+.field-box {
+    text-align: center;
+    padding: 15px 0px;
+}
+
+.my-question {
+    color: rgb(190,116,233);
+    font-weight: bolder;
+}
+
+.my-define {
+    color: white;
+}
+
+.my-point {
+    color: yellow;
+}
+
+.my-example {
+    color: rgb(80, 220, 238);
+}
+
+.my-compare {
+    color: rgb(80,238,139);
+}
+
+.my-tags {
+    color: palegoldenrod;
+    text-decoration:underline;
+    font-style:oblique
+}
