@@ -7,6 +7,7 @@
     "alt-shift-f": "hell-pane:down_dict",
     "alt-shift-n": "hell-pane:down_news",
     "alt-shift-s": "hell-pane:get_brief",
-    "alt-shift-m": "hell-pane:get_concept"
+    "alt-shift-m": "hell-pane:get_concept",
+    "alt-shift-t": "hell-pane:get_toelf_words"
   }
 }
