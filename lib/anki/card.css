@@ -30,6 +30,19 @@
     color: rgb(80,238,139);
 }
 
+.en-trans {
+    display:none;
+    /* visibility: hidden; */
+}
+
+.example {
+    display: none;
+    /* visibility: hidden; */
+}
+
+
+
+
 .my-tags {
     color: palegoldenrod;
     text-decoration:underline;
