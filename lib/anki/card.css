@@ -30,21 +30,33 @@
     color: rgb(80,238,139);
 }
 
+.w-type {
+    color: white;
+}
+
+.chi-trans {
+    color: rgb(102, 255, 255);
+}
+
 .en-trans {
+    color: #ff66a3;
     display:none;
-    /* visibility: hidden; */
 }
 
 .example {
+    color: white;
     display: none;
-    /* visibility: hidden; */
 }
 
-
-
+.photo {
+    width:30%;
+    height:30%;
+    /* margin-left: 20%; */
+}
 
 .my-tags {
     color: palegoldenrod;
     text-decoration:underline;
-    font-style:oblique
+    font-style:oblique;
+    clear:both;
 }

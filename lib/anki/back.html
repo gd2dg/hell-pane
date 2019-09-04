@@ -13,12 +13,14 @@
             </div>
 
             <div class="my-define field-box">
-                {{定义}}
-                <!-- <span class="w-type">ADJ</span> -- <span id="entrans1" class="en-trans">English translation!!!</span> <span class="chi-trans">中文解释</span>
-                <p id="exam1" class="example">例子1</p> -->
+                <!-- {{定义}} -->
+                <span class="w-type">ADJ</span> -- <span class="chi-trans">中文解释</span>
+                <br>
+                <span id="entrans1" class="en-trans">English translation!!!</span>
+                <p id="exam1" class="example">例子1</p>
             </div>
             <div class="my-point field-box">
-                {{要点}}
+                <!-- {{要点}} -->
                 <!-- <span class="w-type">ADJ</span> -- <span class="en-trans">English translation!!!</span> <span class="chi-trans">中文解释</span> -->
             </div>
             <div class="my-example field-box">
@@ -29,14 +31,11 @@
                 <!-- <span class="w-type">ADJ</span> -- <span class="en-trans">English translation!!!</span> <span class="chi-trans">中文解释</span> -->
                 {{比较}}
             </div>
-            <div class="my-compare field-box">
-                {{phonetic}}
-                <audio id="player" controls="control" style="width:95px;display: inline;"> <source src="http://cgdict.com/mp3/{{Word}}_am.mp3" /> </audio>
+            <div class="photo">
+                <img id="my-image" src="http://youdict.com/images/words/hello1.jpg" alt="{{Word}}">
             </div>
-            <div class="field-box">
-                <img src="http://youdict.com/images/words/{{Word}}1.jpg" alt="{{Word}}">
-            </div>
-            <div class="my-tags field-box">
+            <audio id="my-player" controls="control" style="display:none;"> <source src="http://cgdict.com/mp3/{{Word}}_am.mp3" /> </audio>
+            <div id="my-tags" class="my-tags field-box">
                 From: {{Tags}}
             </div>
 
@@ -55,8 +54,7 @@
         }
     }
     else{
-        // $('.en-trans')
-        bList = $('.my-button')
+        bList = $('.chi-trans')
         console.log(bList);
         for (var i = 0; i < bList.length; i++) {
             var oButton = bList[i]
@@ -64,15 +62,23 @@
                 let oEnTrans = $('.en-trans')[this.idx]
                 let oExample = $('.example')[this.idx]
                 if (this.step == 0) {
-                    oEnTrans.style.display = 'inline'
-                    this.button.textContent = 'show example'
+                    oEnTrans.style.display = 'block'
                 }
                 else{
                     oExample.style.display = 'block'
-                    this.button.style.display = 'none'
                 }
                 this.step = this.step +1
             }.bind({'idx':i, 'step':0, 'button':oButton})
         }
     }
+    var img = $('#my-image')
+    img.click(function(){
+        var audio = $('#my-player')[0]
+        audio.play()
+    })
+    var tag = $('#my-tags')
+    tag.click(function(){
+        var audio = $('#my-player')[0]
+        audio.play()
+    })
 </script >
