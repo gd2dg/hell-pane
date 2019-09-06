@@ -45,12 +45,15 @@
 </html>
 
 <script >
-    bList = $('.chi-trans')
-    $('.chi-trans').each(function(i, oChiTrans){
-        $(oChiTrans).click(function(){
-            let oChieTransDetail = $(this).siblings('.chi-trans-detail')[0]
-            let oEnTrans = $(this).siblings('.en-trans')[0]
-            let oExample = $(this).siblings('.example')[0]
+bList = $('.chi-trans')
+$('.chi-trans').each(function(i, oChiTrans){
+    $(oChiTrans).click(function(){
+        if(!this.step) this.step = 0
+        console.log(this.step);
+        let oChieTransDetail = $(this).siblings('.chi-trans-detail')[0]
+        let oEnTrans = $(this).siblings('.en-trans')[0]
+        let oExample = $(this).siblings('.example')[0]
+        if(this.step == 0){
             if(oChieTransDetail){
                 $(oChieTransDetail).show()
                 $(oChieTransDetail).click(function(){
@@ -63,24 +66,26 @@
             $(oEnTrans).click(function(){
                 $(oExample).show()
             })
-            $(oExample).click(function(){
-                $(oChieTransDetail).hide()
-                $(oEnTrans).hide()
-                $(oExample).hide()
-            })
-        })
+        }
+        else{
+            if(oChieTransDetail){$(oChieTransDetail).hide()}
+            $(oEnTrans).hide()
+            $(oExample).hide()
+        }
+        this.step = (this.step + 1)%2
     })
-    var audioFun = function(){
-        var audio = $('#my-player')[0]
-        audio.play()
-    }
-    $('#my-tags').click(audioFun)
-    $('#my-image').click(audioFun)
-    var other = $('.other')[0]
-    $(other).click(function(){
-        var hideFun = function(){ $(this).hide() }
-        $('.chi-trans-detail').each(hideFun)
-        $('.en-trans').each(hideFun)
-        $('.example').each(hideFun)
-    })
+})
+var audioFun = function(){
+    var audio = $('#my-player')[0]
+    audio.play()
+}
+var other = $('.other')[0]
+$('#my-image').click(audioFun)
+$('#phonetic').click(audioFun)
+$('#my-tags').click(function(){
+    var hideFun = function(){ $(this).hide() }
+    $('.chi-trans-detail').each(hideFun)
+    $('.en-trans').each(hideFun)
+    $('.example').each(hideFun)
+})
 </script >

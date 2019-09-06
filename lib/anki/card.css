@@ -28,6 +28,7 @@
 
 .chi-trans-detail {
     color: rgb(80,238,139);
+    display:none;
 }
 
 .en-trans {
@@ -38,6 +39,10 @@
 .example {
     color: white;
     display: none;
+}
+
+#phonetic {
+    color: rgb(190,116,233);
 }
 
 .my-tags {
