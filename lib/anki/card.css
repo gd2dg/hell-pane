@@ -14,32 +14,24 @@
     font-weight: bolder;
 }
 
-.my-define {
-    color: white;
-}
-
-.my-point {
+.w-type {
     color: yellow;
 }
 
-.my-example {
-    color: rgb(80, 220, 238);
-}
-
-.my-compare {
-    color: rgb(80,238,139);
-}
-
-.w-type {
-    color: white;
+.other {
+    color: yellow;
 }
 
 .chi-trans {
     color: rgb(102, 255, 255);
 }
 
+.chi-trans-detail {
+    color: rgb(80,238,139);
+}
+
 .en-trans {
-    color: #ff66a3;
+    color:palegoldenrod;
     display:none;
 }
 
@@ -48,15 +40,22 @@
     display: none;
 }
 
-.photo {
-    width:30%;
-    height:30%;
-    /* margin-left: 20%; */
-}
-
 .my-tags {
-    color: palegoldenrod;
+    color: rgb(80,238,139);
     text-decoration:underline;
     font-style:oblique;
     clear:both;
+}
+
+.my-define {
+    color: white;
+}
+.my-point {
+    color: yellow;
+}
+.my-example {
+    color: yellow;
+}
+.my-compare {
+    color: rgb(80,238,139);
 }

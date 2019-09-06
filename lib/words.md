@@ -5,6 +5,7 @@ N-COUNT -- An <b>example</b> <b>of</b> something is a particular situation, obje
 医生给出了大量病人被逐出医院的实例。
 2. 
 N-COUNT -- An <b>example</b> <b>of</b> a particular class of objects or styles is something that has many of the typical features of such a class or style, and that you consider clearly represents it. 范例
+## 这是中文翻译的解释
 •  Symphonies 103 and 104 stand as perfect examples of early symphonic construction.
 第103和104号交响曲是早期交响乐谱曲的完美范本。
 3. 

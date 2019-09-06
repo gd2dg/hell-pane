@@ -45,40 +45,42 @@
 </html>
 
 <script >
-    var bList = $('.w-type') //兼容老数据
-    if (bList.length == 0) {
-        bList = $('.my-button')
-        for (var i = 0; i < bList.length; i++) {
-            var oButton = bList[i]
-            oButton.style.display = 'none'
-        }
-    }
-    else{
-        bList = $('.chi-trans')
-        console.log(bList);
-        for (var i = 0; i < bList.length; i++) {
-            var oButton = bList[i]
-            oButton.onclick = function() {
-                let oEnTrans = $('.en-trans')[this.idx]
-                let oExample = $('.example')[this.idx]
-                if (this.step == 0) {
-                    oEnTrans.style.display = 'block'
-                }
-                else{
-                    oExample.style.display = 'block'
-                }
-                this.step = this.step +1
-            }.bind({'idx':i, 'step':0, 'button':oButton})
-        }
-    }
-    var img = $('#my-image')
-    img.click(function(){
-        var audio = $('#my-player')[0]
-        audio.play()
+    bList = $('.chi-trans')
+    $('.chi-trans').each(function(i, oChiTrans){
+        $(oChiTrans).click(function(){
+            let oChieTransDetail = $(this).siblings('.chi-trans-detail')[0]
+            let oEnTrans = $(this).siblings('.en-trans')[0]
+            let oExample = $(this).siblings('.example')[0]
+            if(oChieTransDetail){
+                $(oChieTransDetail).show()
+                $(oChieTransDetail).click(function(){
+                    $(oEnTrans).show()
+                })
+            }
+            else{
+                $(oEnTrans).show()
+            }
+            $(oEnTrans).click(function(){
+                $(oExample).show()
+            })
+            $(oExample).click(function(){
+                $(oChieTransDetail).hide()
+                $(oEnTrans).hide()
+                $(oExample).hide()
+            })
+        })
     })
-    var tag = $('#my-tags')
-    tag.click(function(){
+    var audioFun = function(){
         var audio = $('#my-player')[0]
         audio.play()
+    }
+    $('#my-tags').click(audioFun)
+    $('#my-image').click(audioFun)
+    var other = $('.other')[0]
+    $(other).click(function(){
+        var hideFun = function(){ $(this).hide() }
+        $('.chi-trans-detail').each(hideFun)
+        $('.en-trans').each(hideFun)
+        $('.example').each(hideFun)
     })
 </script >
