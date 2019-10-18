@@ -38,54 +38,63 @@
             <div id="my-tags" class="my-tags field-box">
                 From: {{Tags}}
             </div>
-
         </div>
-
     </body>
 </html>
 
 <script >
-bList = $('.chi-trans')
-$('.chi-trans').each(function(i, oChiTrans){
-    $(oChiTrans).click(function(){
-        if(!this.step) this.step = 0
-        console.log(this.step);
-        let oChieTransDetail = $(this).siblings('.chi-trans-detail')[0]
-        let oEnTrans = $(this).siblings('.en-trans')[0]
-        let oExample = $(this).siblings('.example')[0]
-        if(this.step == 0){
-            if(oChieTransDetail){
-                $(oChieTransDetail).show()
-                $(oChieTransDetail).click(function(){
-                    $(oEnTrans).show()
-                })
-            }
-            else{
-                $(oEnTrans).show()
-            }
-            $(oEnTrans).click(function(){
-                $(oExample).show()
-            })
-        }
-        else{
-            if(oChieTransDetail){$(oChieTransDetail).hide()}
-            $(oEnTrans).hide()
-            $(oExample).hide()
-        }
-        this.step = (this.step + 1)%2
-    })
+EntryFun = function(){
+    if(!this.step) this.step = 0
+    // 例子的中文翻译
+    let oExampleOther = $(this).siblings('.example-other')[0]
+    // 中文解释
+    let oChiTrans2 = $(this).siblings('.chi-trans')[0]
+    // 英文解释
+    let oEnTrans = $(this).siblings('.en-trans')[0]
+    // 英文解释对应的中文翻译
+    let oChieTransDetail = $(this).siblings('.chi-trans-detail')[0]
+    // 点击一次全部展示
+    if(this.step == 0){
+        $(oExampleOther).show()
+        $(oChiTrans2).show()
+        $(oChieTransDetail).show()
+        $(oEnTrans).show()
+    }
+    this.step = this.step + 1
+}
+$('.w-type').each(function(i, oType){
+    $(oType).click(EntryFun)
 })
 var audioFun = function(){
     var audio = $('#my-player')[0]
     audio.play()
 }
-var other = $('.other')[0]
+var other = $('.other')
+other.hide()
 $('#my-image').click(audioFun)
 $('#phonetic').click(audioFun)
-$('#my-tags').click(function(){
-    var hideFun = function(){ $(this).hide() }
-    $('.chi-trans-detail').each(hideFun)
-    $('.en-trans').each(hideFun)
-    $('.example').each(hideFun)
-})
+var showFunc = function(){ $(this).show() }
+var hideFunc = function(){ $(this).hide() }
+var AllShowFun = function(event){
+        if(event == 66 || event.keyCode == 87){
+            $('.w-type').each(showFunc)
+            $('.chi-trans').each(showFunc)
+            $('.chi-trans-detail').each(showFunc)
+            $('.en-trans').each(showFunc)
+            $('.example').each(showFunc)
+            $('.example-other').each(showFunc)
+            other.show()
+        }
+        else if(event.keyCode == 81){
+            // $('.w-type').each(hideFunc)
+            $('.chi-trans').each(hideFunc)
+            $('.chi-trans-detail').each(hideFunc)
+            $('.en-trans').each(hideFunc)
+            //$('.example').each(hideFunc)
+             $('.example-other').each(hideFunc)
+            other.hide()
+        }
+    }
+$(document).keyup(AllShowFun)
+$('#my-tags').click(AllShowFun.bind(this, 66))
 </script >

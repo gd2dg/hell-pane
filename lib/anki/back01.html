@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>anki card</title>
+        <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js"> </script>
+        <link href="card.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body >
+        <div class="card" id="my-card">
+            <div class="my-point field-box">
+                {{Word}}
+            </div>
+
+            <div class="my-define field-box">
+                <!-- {{定义}} -->
+                <span class="w-type">ADJ</span> -- <span class="chi-trans">中文解释</span>
+                <br>
+                <span id="entrans1" class="en-trans">English translation!!!</span>
+                <p id="exam1" class="example">例子1</p>
+            </div>
+            <div class="my-point field-box">
+                <!-- {{要点}} -->
+                <!-- <span class="w-type">ADJ</span> -- <span class="en-trans">English translation!!!</span> <span class="chi-trans">中文解释</span> -->
+            </div>
+            <div class="my-example field-box">
+                {{举例}}
+                <!-- <span class="w-type">ADJ</span> -- <span class="en-trans">English translation!!!</span> <span class="chi-trans">中文解释</span> -->
+            </div>
+            <div class="my-compare field-box">
+                <!-- <span class="w-type">ADJ</span> -- <span class="en-trans">English translation!!!</span> <span class="chi-trans">中文解释</span> -->
+                {{比较}}
+            </div>
+            <div class="photo">
+                <img id="my-image" src="http://youdict.com/images/words/hello1.jpg" alt="{{Word}}">
+            </div>
+            <audio id="my-player" controls="control" style="display:none;"> <source src="http://cgdict.com/mp3/{{Word}}_am.mp3" /> </audio>
+            <div id="my-tags" class="my-tags field-box">
+                From: {{Tags}}
+            </div>
+
+        </div>
+
+    </body>
+</html>
+
+<!-- <script >
+bList = $('.chi-trans')
+$('.chi-trans').each(function(i, oChiTrans){
+    $(oChiTrans).click(function(){
+        if(!this.step) this.step = 0
+        console.log(this.step);
+        let oChieTransDetail = $(this).siblings('.chi-trans-detail')[0]
+        let oEnTrans = $(this).siblings('.en-trans')[0]
+        let oExample = $(this).siblings('.example')[0]
+        if(this.step == 0){
+            if(oChieTransDetail){
+                $(oChieTransDetail).show()
+                $(oChieTransDetail).click(function(){
+                    $(oEnTrans).show()
+                })
+            }
+            else{
+                $(oEnTrans).show()
+            }
+            $(oEnTrans).click(function(){
+                $(oExample).show()
+            })
+        }
+        else{
+            if(oChieTransDetail){$(oChieTransDetail).hide()}
+            $(oEnTrans).hide()
+            $(oExample).hide()
+        }
+        this.step = (this.step + 1)%2
+    })
+})
+var audioFun = function(){
+    var audio = $('#my-player')[0]
+    audio.play()
+}
+var other = $('.other')[0]
+$('#my-image').click(audioFun)
+$('#phonetic').click(audioFun)
+$('#my-tags').click(function(){
+    var hideFun = function(){ $(this).hide() }
+    $('.chi-trans-detail').each(hideFun)
+    $('.en-trans').each(hideFun)
+    $('.example').each(hideFun)
+})
+</script > -->
+
+<script >
+$('.example').each(function(i, oExample){
+    $(oExample).click(function(){
+        if(!this.step) this.step = 0
+        let oType = $(this).siblings('.w-type')[0]
+        let oChiTrans2 = $(this).siblings('.chi-trans')[0]
+        let oChieTransDetail = $(this).siblings('.chi-trans-detail')[0]
+        let oEnTrans = $(this).siblings('.en-trans')[0]
+        let oExampleOther = $(this).siblings('.example-other')[0]
+        if(this.step == 0){
+            $(oType).show()
+            $(oExampleOther).show()
+            $(oChiTrans2).show()
+            if(oChieTransDetail){
+                $(oChieTransDetail).show()
+                $(oChieTransDetail).click(function(){
+                    $(oEnTrans).show()
+                })
+            }
+            $(oEnTrans).show()
+        }
+        else {
+                $(oEnTrans).show()
+        }
+        this.step = this.step + 1
+    })
+})
+var audioFun = function(){
+    var audio = $('#my-player')[0]
+    audio.play()
+}
+var other = $('.other')
+other.hide()
+$('#my-image').click(audioFun)
+$('#phonetic').click(audioFun)
+$('#my-tags').click(function(){
+    var showFunc = function(){ $(this).show() }
+	$('.w-type').each(showFunc)
+    $('.chi-trans').each(showFunc)
+    $('.chi-trans-detail').each(showFunc)
+    $('.en-trans').each(showFunc)
+    $('.example').each(showFunc)
+    $('.example-other').each(showFunc)
+    other.show()
+})
+</script >
