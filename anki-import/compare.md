@@ -45,9 +45,8 @@ bustle ['bʌsl]
 bluster ['blʌstɚ]
 
 # texture,textile
-
-texture
-textile
+texture ['tekstʃə]
+textile ['tekstaɪl]
 
 # chilli,chilly
 chilli ['tʃɪli]
@@ -57,12 +56,13 @@ chilly ['tʃɪli]
 cohesive [ko'hisɪv]
 coherent [ko'hɪrənt]
 
-# tripe,strip,stripe,strap,scrap,
+# tripe,strip,stripe,strap,scrap
+
 tripe
 strip
 stripe
 strap
-scrap
+scra看p
 
 tripe [traɪp]
 strip [strɪp]
