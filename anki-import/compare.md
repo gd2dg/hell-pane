@@ -12,7 +12,7 @@ transpire [træn'spaɪə; trɑːn-]
 
 # analogy,analogous,analgesic,analogue
 
-# narcotic,anesthetic,analgesic
+# narcotic,anesthetic,analgesic,aesthetic
 
 # atheist,heist
 
@@ -25,3 +25,45 @@ transpire [træn'spaɪə; trɑːn-]
 # compact,contract
 
 # nip,snip
+
+# swamp,swarm
+
+# strait,straight
+
+# strain,stain
+
+# steak,streak
+
+# renounce,denounce
+
+# strew,stew
+
+# apprehension,comprehension
+
+# conceive, perceive
+
+# breed,greed
+
+# beak, bleak
+
+# venu, avenu
+
+# sheer,shear
+
+# shrink,shrimp,shriek
+
+# automatic,automated
+
+# blizzard,
+
+# bowl,bowel
+
+# induce,deduce,induction,deduction
+
+# census,censor
+
+# bleach,breach
+
+# soothe,seethe
+
+# premier,premiere

@@ -1,14 +1,12 @@
 {
   "atom-workspace": {
-    "ctrl-alt-p": "hell-pane:gen_youdao",
+    "ctrl-alt-p": "hell-pane:gen_pp_data",
     "ctrl-alt-k": "hell-pane:gen_key_data",
     "alt-shift-p": "hell-pane:do_some",
     "alt-shift-l": "hell-pane:open_config",
     "alt-shift-t": "hell-pane:down_dict",
-    "alt-shift-n": "hell-pane:down_news",
     "alt-shift-s": "hell-pane:get_brief",
-    "alt-shift-m": "hell-pane:get_concept",
-    "alt-shift-f": "hell-pane:get_toelf_words",
-    "alt-shift-v": "hell-pane:get_single_cigen"
+    "alt-shift-v": "hell-pane:get_single_cigen",
+    "alt-shift-f": "hell-pane:get_translation"
   }
 }
