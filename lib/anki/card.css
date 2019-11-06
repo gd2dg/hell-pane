@@ -12,10 +12,22 @@
 .my-question {
     color: rgb(190,116,233);
     font-weight: bolder;
+    font-size: 150%;
+}
+
+.subtitle {
+    color: rgb(80,238,139);
+    text-decoration:underline;
+    font-size: 120%;
+}
+
+#additional-patern {
+    color: yellow;
+    font-size: 120%;
 }
 
 .w-type {
-    color: yellow;
+    color: #FF1493;
 }
 
 .other {
@@ -24,6 +36,7 @@
 
 .chi-trans {
     color: rgb(102, 255, 255);
+    display:none;
 }
 
 .chi-trans-detail {
@@ -32,13 +45,17 @@
 }
 
 .en-trans {
-    color:palegoldenrod;
+    color:white;
     display:none;
 }
 
 .example {
-    color: white;
-    display: none;
+    color:palegoldenrod;
+}
+
+.example-other {
+    color:palegoldenrod;
+	display:none;
 }
 
 #phonetic {
