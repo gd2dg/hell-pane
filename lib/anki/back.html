@@ -97,4 +97,38 @@ var AllShowFun = function(event){
     }
 $(document).keyup(AllShowFun)
 $('#my-tags').click(AllShowFun.bind(this, 66))
+
+function count(Count, Ratio, Day) {
+    var obj = [Count, Count]
+    if (Day <= 2) {
+        return obj[Day - 1]
+    }
+    for (var i = 1; i < Day; i++) {
+        var pre = obj[i]
+        var tomorrow = parseInt(pre * Ratio)
+        var next = pre - tomorrow
+        var i1 = i+1
+        var i2 = i+3
+        if(!obj[i1]) obj[i1] = 0
+        if(!obj[i2]) obj[i2] = 0
+        obj[i1] = obj[i1] + tomorrow
+        obj[i2] = obj[i2] + next
+    }
+    var sum = 0
+    var r = []
+    for ( i = 0; i < Day; i++) {
+        var subSum = obj.slice(0, i+1).reduce(function (accumulator, currentValue) {
+            return accumulator + currentValue;
+        }, 0);
+        sum = sum + obj[i]
+        r.push(subSum)
+    }
+    console.log(obj, sum);
+    console.log(r);
+    return sum
+}
+console.log(20, 0.4, 10);
+count(20, 0.4, 10)
+console.log(15, 0.4, 10);
+count(15, 0.4, 10)
 </script >

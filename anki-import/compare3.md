@@ -26,6 +26,6 @@ congenital [kən'dʒɛnɪtl] adj. 先天的，天生的；天赋的
 
 # flaunt,daunt
 
-# swipe,wipe
+# swipe,wipe,snip
 
 # crack,crash
