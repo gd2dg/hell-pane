@@ -20,7 +20,7 @@ congenital [kən'dʒɛnɪtl] adj. 先天的，天生的；天赋的
 
 # model, modal
 
-# tumble,fumble
+# tumble,fumble,stumble
 
 # alloy,allegory
 
@@ -29,3 +29,11 @@ congenital [kən'dʒɛnɪtl] adj. 先天的，天生的；天赋的
 # swipe,wipe,snip
 
 # crack,crash
+
+# lunge, lounge
+
+# repress,conpress
+
+# blizzard,bizarre
+
+# pickle, prickle

@@ -99,6 +99,7 @@ $(document).keyup(AllShowFun)
 $('#my-tags').click(AllShowFun.bind(this, 66))
 
 function count(Count, Ratio, Day) {
+    console.log(Count, Ratio, Day);
     var obj = [Count, Count]
     if (Day <= 2) {
         return obj[Day - 1]
@@ -127,8 +128,6 @@ function count(Count, Ratio, Day) {
     console.log(r);
     return sum
 }
-console.log(20, 0.4, 10);
-count(20, 0.4, 10)
-console.log(15, 0.4, 10);
-count(15, 0.4, 10)
+count(20, 0.4, 25)
+count(15, 0.4, 18)
 </script >
