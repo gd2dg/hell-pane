@@ -7,6 +7,7 @@
     "alt-shift-t": "hell-pane:down_dict",
     "alt-shift-s": "hell-pane:get_brief",
     "alt-shift-v": "hell-pane:get_single_cigen",
-    "alt-shift-f": "hell-pane:get_translation"
+    "alt-shift-f": "hell-pane:get_translation",
+    "alt-shift-m": "hell-pane:get_single_phonetic"
   }
 }
