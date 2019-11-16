@@ -836,7 +836,7 @@ distraught 发狂的
 taught 被教坏了, 误入歧途, 很烦
 
 
-# track<名词含义> [træk]
+# track<基本名词含义> [træk]
 ++ ( tracking, tracked, tracks )
 -- ROAD
 N-COUNT -- A track is a rough, unpaved road or path. (崎岖不平的) 小路
@@ -848,6 +848,8 @@ N-COUNT -- A track is a piece of ground, often oval-shaped, that is used for rac
 N-COUNT -- Railway tracks are the rails that a train travels along. 铁轨
 •  A cow stood on the tracks.
 一头奶牛站在铁轨上。
+
+# track<进阶名词含义> [træk]
 N-PLURAL -- Tracks are marks left in the ground by the feet of animals or people. 足迹
 •  The only evidence of pandas was their tracks in the snow.
 有熊猫活动的惟一证据就是它们在雪中的足迹。
@@ -1017,25 +1019,6 @@ con-, 强调。-sol, 整体，词源同solid. 即使成整体的，巩固的。
 把液体合并成一个固体， 巩固
 
 
-# rag [ræɡ]
-++ ( ragging, ragged, rags )
-N-VAR -- A rag is a piece of old cloth which you can use to clean or wipe things. 抹布
-•  He was wiping his hands on an oily rag.
-他正用一块油腻腻的抹布擦手。
-N-PLURAL -- Rags are old torn clothes. 破烂衣服
-•  There were men, women, and small children, some dressed in rags.
-有男人、女人和孩子，其中一些人穿着破烂的衣服。
-N-COUNT [非正式] -- People refer to a newspaper as a rag when they have a poor opinion of it. 质量低劣的报纸
-•  "This man Tom works for a local rag," he said.
-“那个叫汤姆的人为当地一家小报干活，”他说。
-V-T [非正式] -- If someone rags you, they tease you in a friendly way. (善意地) 揶揄
-•  "They always rag me about my car," he says.
-“他们总拿我的汽车取笑我，”他说。
-4.
-rag 破布
-rug 小地毯， 坏了变成抹布，引申义为破烂的东西， 调戏取笑
-
-
 # shuttle ['ʃʌtl]
 ++ ( shuttling, shuttled, shuttles )
 N-COUNT -- A shuttle is the same as a space shuttle. 航天飞机
@@ -1116,29 +1099,6 @@ yield 出产，屈服
 eld 人老了， 骨头都要断了， 应该屈服和放弃， 让年轻人先行
 
 
-# yield<收益相关> [jild]
-++ ( yielding, yielded, yields )
--- PRODUCTION & PROFIT
-V-T -- If an area of land yields a particular amount of a crop, this is the amount that is produced. You can also say that a number of animals yield a particular amount of meat. 产
-•  Last year 400,000 acres of land yielded a crop worth $1.75 billion.
-去年40万英亩的土地出产了价值17.5亿美元的粮食。
-N-COUNT -- A yield is the amount of food produced on an area of land or by a number of animals. 产量
-•  ...improving the yield of the crop.
-…增加农作物的产量。
-V-T [商业] -- If a tax or investment yields an amount of money or profit, this money or profit is obtained from it. 产生 (收益)
-•  It yielded a profit of at least $36 million.
-它带来了至少三千六百万美元的利润。
-N-COUNT [商业] -- A yield is the amount of money or profit produced by an investment. (投资的) 利润; 收益
-•  ...a yield of 4%.
-…4%的收益。
-•  The high yields available on the dividend shares made them attractive to private investors.
-股息股能获得的高收益使它们对私人投资者们很有吸引力。
-V-T -- If something yields a result or piece of information, it produces it. 产生 (结果); 制造 (消息)
-•  This research has been in progress since 1961 and has yielded a great number of positive results.
-这项研究自1961年以来一直在开展，已经取得了大量的积极成果。
-4.
-yield 出产，屈服
-eld 庄稼老了 成熟了 才能产生收益
 
 
 # mutate ['mjutet]
