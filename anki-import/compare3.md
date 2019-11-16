@@ -49,3 +49,7 @@ congenital [kən'dʒɛnɪtl] adj. 先天的，天生的；天赋的
 # hedge,pledge,fledge
 
 # choreograph,choreography,choreographer
+
+# millet,fillet
+
+# ludicrous, lustrous
