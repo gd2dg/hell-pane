@@ -1,4 +1,4 @@
-# slam <动作> [slæm]
+# slam <动作-人> [slæm]
 ++ ( slamming, slammed, slams )
 V-T/V-I -- If you slam a door or window or if it slams, it shuts noisily and with great force. 砰地关上; 使劲关上
 •  She slammed the door and locked it behind her.
@@ -13,6 +13,15 @@ V-T/V-I -- If one thing slams into or against another, it crashes into it with g
 飞机起飞后不久便失去一个引擎，猛地撞到那栋建筑物上。
 N -- the act or noise of slamming 猛击; 撞击的声音
 4.
+
+# slam <动作-物体> [slæm]
+++ ( slamming, slammed, slams )
+V-T/V-I -- If one thing slams into or against another, it crashes into it with great force. 猛烈撞击
+•  The plane slammed into the building after losing an engine shortly after take-off.
+飞机起飞后不久便失去一个引擎，猛地撞到那栋建筑物上。
+N -- the act or noise of slamming 猛击; 撞击的声音
+4.
+
 
 
 # slam <新闻业-报道> [slæm]
@@ -50,6 +59,7 @@ N-COUNT -- A review is a report in the media in which someone gives their opinio
 review 复查，回顾，写评论
 re-,向后，往回，view,看。引申诸相关词义。
 
+
 # review <学习> [rɪ'vju]
 ++ ( reviewing, reviewed, reviews )
 V-T/V-I [美国英语] --  复习
@@ -64,32 +74,14 @@ re-,向后，往回，view,看。引申诸相关词义。
 
 
 
-# complaint <note> [kəm'plent]
-++ ( complaints )
-N-VAR -- A complaint is a statement in which you express your dissatisfaction with a situation. 怨言; 投诉
-•  There's been a record number of complaints about the standard of service.
-已有对服务水准的创纪录数量的投诉。
-•  People have been reluctant to make formal complaints to the police.
-人们一直不愿正式向警方投诉。
-N-COUNT -- A complaint is a reason for complaining. 抱怨的缘由
-•  My main complaint is that we can't go out on the racecourse anymore.
-我抱怨的主要缘由是我们无法再去外面的赛道了。
-N-COUNT -- You can refer to an illness as a complaint, especially if it is not very serious. (尤指不严重的) 疾病
-•  Eczema [ɪɡ'zimə] is a common skin complaint which often runs in families.
-湿疹是一种常见的皮肤病，常会遗传。
-Eczema [ɪɡ'zimə] n. [皮肤] 湿疹
-4.
-complaint 抱怨，疾病
-来自complain, 抱怨，被疾病侵袭。
-
-
 # embroider <note> [ɪm'brɔɪdɚ]
 ++ ( embroidering, embroidered, embroiders )
-V-T/V-I[纺织] -- If something such as clothing or cloth is embroidered with a design, the design is stitched into it. 绣
+V-T/V-I[纺织] -- If something such as clothing or cloth is embroidered with a design, the design is stitched [stɪtʃ] into it. 绣
 •  The collar was embroidered with very small red strawberries.
 这衣领上绣了非常小的红色草莓。
 •  I have a pillow with my name embroidered on it.
 我有一个绣着我名字的枕头。
+stitch [stɪtʃ] n. 针脚，线迹；一针
 V-T/V-I[叙述] -- If you embroider a story or account of something, or if you embroider on it, you try to make it more interesting by adding details that may be untrue. 渲染
 •  He told some lies and sometimes just embroidered the truth.
 他说了些谎话，有时候只不过是渲染了一下事实。
@@ -111,10 +103,11 @@ regulate 管理，控制，调节
 # hemorrhage <note> ['hɛmərɪdʒ]
 ++ ( hemorrhaging, hemorrhaged, hemorrhages )
 N-VAR -- A haemorrhage is serious bleeding inside a person's body. 严重内出血
-•  Shortly after his admission into the hospital he had a massive brain haemorrhage and died.
+•  Shortly after his admission [əd'mɪʃən] into the hospital he had a massive brain haemorrhage and died.
 他住进医院不久，因脑部大量内出血而去世了。
+admission [əd'mɪʃən] n. 承认；入场费；进入许可；坦白；录用
 V-I -- If someone is haemorrhaging, there is serious bleeding inside their body. 内出血
-•  I haemorrhaged badly after the birth of all three of my sons.
+•  I hemorrhaged badly after the birth of all three of my sons.
 我把3个儿子都生下来之后，严重内出血。
 N-UNCOUNT -- hemorrhaging 内出血
 •  A post mortem showed he died from shock and haemorrhaging.
@@ -124,7 +117,8 @@ he morr memory, 记忆力出血，内出血
 
 concile
 
-# reconcile <宾语出现两个有冲突的事情> ['rɛkənsaɪl]
+
+# reconcile <动词> ['rɛkənsaɪl]
 ++ ( reconciling, reconciled, reconciles )
 V-T -- If you reconcile two beliefs, facts, or demands that seem to be opposed or completely different, you find a way in which they can both be true or both be successful. 使和谐一致; 调和
 •  It's difficult to reconcile the demands of my job and the desire to be a good father.
@@ -173,8 +167,9 @@ N-SING -- If an event or a series of events has been mentioned and you want to t
 •  The administration has mishandled the whole affair.
 政府错误地处理了整个事件。
 N-SING [journalism] -- You can refer to an important or interesting event or situation as "the ... affair." (…) 事件
-•  ...the damage caused to the CIA and FBI in the aftermath of the Watergate affair.
+•  ...the damage caused to the CIA and FBI in the aftermath ['æftəmæθ] of the Watergate affair.
 …水门事件过后对中情局和美国联帮调查局造成的损害。
+aftermath ['æftəmæθ] n. 后果；余波
 N-SING -- You can describe the main quality of an event by saying that it is a particular kind of affair. (某种性质的) 事
 •  Michael said that his planned 10-day visit would be a purely private affair.
 迈克尔说他计划的10天的访问将是一件纯粹私事。
@@ -188,7 +183,6 @@ affair 事务
 N-PLURAL -- You can use affairs to refer to all the important facts or activities that are connected with a particular subject. (有关某话题的) 事务
 •  He does not want to interfere in the internal affairs of another country.
 他不想干涉他国的内部事务。
- -- → see also current affairs, state of affairs
 N-PLURAL -- Your affairs are all the matters connected with your life that you consider to be private and normally deal with yourself. (个人的) 事情
 •  The unexpectedness of my father's death meant that his affairs were not entirely in order.
 我父亲的意外过世意味着他的个人事情不是完全有序。
@@ -367,9 +361,10 @@ laureate 桂冠诗人，获奖者
 
 
 # ivory <note> ['aɪvəri]
-N-UNCOUNT -- Ivory is a hard cream-coloured substance that forms the tusks of elephants and some other animals. It is valuable and can be used for making carved ornaments. (象或其他一些动物的) 长牙
+N-UNCOUNT -- Ivory is a hard cream-coloured substance that forms the tusks [tʌsk]  of elephants and some other animals. It is valuable and can be used for making carved ornaments. (象或其他一些动物的) 长牙
 •  ...the international ban on the sale of ivory.
 …禁止销售象牙的国际禁令。
+tusk [tʌsk] n. 长牙；尖头，尖形物
 COLOR -- Ivory is a creamy-white colour. 乳白色 (的)
 •  ...small ivory flowers.
 …乳白色的小花。
@@ -396,7 +391,7 @@ castle 城堡
 来自PIE kes, 砍，切，进一步来自PIEsek, 词源同saw, segment。原指自成体系的村庄，后指城堡。
 
 
-# junk <旧> [dʒʌŋk]
+# junk <物品> [dʒʌŋk]
 ++ ( junking, junked, junks )
 V-T [非正式] -- If you junk something, you get rid of it or stop using it. 丢掉
 •  Consumers will not have to junk their old cassettes to use the new format.
@@ -406,8 +401,6 @@ N-UNCOUNT -- Junk is old and used things that have little value and that you do 
 罗丝在旧货店里找到她的家具。
 4.
 junk 垃圾
-来自中古英语junke,船上的旧缆绳或绳索，可能来自古法语junc,来自拉丁语juncus,芦苇，灯芯草，词源同junket.后引申词义船上的垃圾，废弃物。
-来自葡萄牙语junco,来自马来语jong,船，大船，最终来自汉语chuan,船。
 
 
 # junk <航海> [dʒʌŋk]
@@ -418,8 +411,6 @@ poop [pup] n. 船尾；傻子；内幕消息
 batten ['bætn] n. 板条；曲尺；扣板；小方材
 4.
 junk 垃圾
-来自中古英语junke,船上的旧缆绳或绳索，可能来自古法语junc,来自拉丁语juncus,芦苇，灯芯草，词源同junket.后引申词义船上的垃圾，废弃物。
-来自葡萄牙语junco,来自马来语jong,船，大船，最终来自汉语chuan,船。
 
 
 # sail <note> [seɪl]
@@ -440,7 +431,7 @@ V-T/V-I -- If you sail a boat or if a boat sails, it moves across water using it
 4.
 sail 帆，航行
 
-# sail <--set sail> [seɪl]
+# sail <set sail> [seɪl]
 ++ ( sailing, sailed, sails )
 PHRASE -- When a ship sets sail, it leaves a port. 启航
 •  He loaded his vessel with another cargo and set sail.
@@ -561,7 +552,7 @@ dent 凹痕
 # dent <名词> [dɛnt]
 ++ ( denting, dented, dents )
 N -- a toothlike protuberance [pro'tubərəns], esp the tooth of a sprocket ['sprɑkɪt] or gearwheel 齿状突出物; (齿轮的)齿
-protuberance [pro'tubərəns] n.
+protuberance [pro'tubərəns] n. 突起，突出；结节，瘤
 sprocket ['sprɑkɪt] n. 链轮齿；扣链齿轮
 4.
 dent 凹痕
@@ -602,6 +593,7 @@ ADV [ADV with v] -- indignantly 愤怒地
 indignant 愤怒的
 in-,不，非，-dign,尊贵，价值，体面，词源同dignity,decent.即价值被贬低的，名声被侮辱的，引申词义被激怒的，愤怒的。
 
+
 # indignation <note> [,ɪndɪɡ'neʃən]
 N-UNCOUNT -- Indignation is a feeling of shock and anger when you think that something is unjust or unfair. 愤怒不平
 •  She was filled with indignation at the conditions under which miners were forced to work.
@@ -620,12 +612,19 @@ V-T/V-I -- If you dehydrate or if something dehydrates you, you lose too much wa
 •  People can dehydrate in weather like this.
 人在这样的天气里会脱水。
 N-UNCOUNT -- dehydration [,dihaɪ'dreʃən] 脱水
-•  ...a child who's got diarrhoea and is suffering from dehydration.
+•  ...a child who's got diarrhoea [,daɪə'rɪə] and is suffering from dehydration.
 …一个得了腹泻并患脱水的孩子。
+diarrhoea [,daɪə'rɪə] n. 腹泻
 4.
 dehydrate 脱水
 de-, 不，非，使相反。hydrate, 补水。即脱水。
 
+# diarrhoea <note> [,daɪə'rɪə]
+N-UNCOUNT -- If someone has diarrhoea, a lot of liquid feces ['fisiz] comes out of their body because they are ill. 腹泻
+•  But the food itself was barely digestible, and many team members suffered from diarrhoea or constipation.
+但食物本身难以消化,许多队员患了腹泻或便秘。
+feces ['fisiz] n. 排泄物；渣滓
+4.
 
 # intravenous <note> ['ɪntrə'vinəs]
 ADJ [医学] [ADJ n] -- Intravenous foods or drugs are put into people's bodies through their veins, rather than their mouths. 静脉输入的
@@ -664,10 +663,12 @@ ADV [ADV with v] -- intensely 热切地
 intense 剧烈的，强烈的
 in-,进入，使，-tense,延伸，词源同tend,tense.引申词义拉长，绷紧，剧烈的，强烈的。
 
+
 # self-conscious <note> ['self'kɔnʃəs]
 ADJ -- Someone who is self-conscious is easily embarrassed and nervous because they feel that everyone is looking at them and judging them. 难为情的; 不自在的
-•  I felt a bit self-conscious in my bikini.
+•  I felt a bit self-conscious in my bikini [bɪ'kini].
 穿着比基尼，我感到有点难为情。
+bikini [bɪ'kini] n. 比基尼泳装；大爆炸
 4.
 
 
@@ -785,21 +786,16 @@ doll 芭比娃娃吃一大勺冰激凌
 词源不详。
 
 
-# iron <动词> ['aɪɚn]
+# iron <家务> ['aɪɚn]
 ++ ( ironing, ironed, irons )
 V-T -- If you iron clothes, you remove the creases from them using an iron. 熨
 •  She used to iron his shirts.
 她过去常给他熨衬衫。
 N-COUNT -- An iron is an electrical device with a flat metal base. You heat it until the base is hot, then rub it over clothes to remove creases. 熨斗
+## 熨斗是一种有扁平金属底座的电气装置。你把它加热，直到底部变热，然后在衣服上擦去褶皱。
 N-UNCOUNT -- ironing 熨烫
 •  I managed to get all the ironing done this morning.
 今天上午我设法把所有的衣物都熨了。
-N-UNCOUNT -- Iron is an element that usually takes the form of a hard, dark grey metal. It is used to make steel, and also forms part of many tools, buildings, and vehicles. Very small amounts of iron occur in your blood and in food. 铁
-## 铁通常是一种坚硬的深灰色金属。它被用来炼钢，也构成许多工具、建筑物和车辆的一部分。你的血液和食物中都含有极少量的铁。
-•  The huge, iron gate was locked.
-那扇巨大的铁门被锁上了。
-•  ...the highest grade iron ore deposits in the world.
-…世界上最优质的铁矿床。
 4.
 iron 铁，熨斗
 来自古英语isaern,铁，铁制品，铁制武器，来自PIEeis,坚硬的，坚固的。部分词源学家进一步推测来自PIEh1esh2r,血，词源同sanguine,血红色。由血引申词义血红，铁水，铁。同时，由于血在古代观念中的神圣含义，引申词义神圣的，强烈的感情，衍生ire,estrus,hieratic等。参照blood,bless.
@@ -822,9 +818,10 @@ iron 铁，熨斗
 ++ ( fists )
 N-COUNT -- Your hand is referred to as your fist when you have bent your fingers in toward the palm in order to hit someone, to make an angry gesture, or to hold something. 拳头
 ## 你的手被称为你的拳头，当你为了打某人，做一个生气的手势，或抓住东西而把你的手指向掌心弯曲。
-•  Angry protestors with clenched [klɛntʃ] fists shouted their defiance.
+•  Angry protestors with clenched [klɛntʃ] fists shouted their defiance [dɪ'faɪəns].
 愤怒的抗议者们紧握拳头高声抗议。
 clench [klɛntʃ] vt. 紧握；确定；把…敲弯
+defiance [dɪ'faɪəns] n. 蔑视；挑战；反抗
 4.
 fist 拳
 来自PIEpenkwe, 五，词源同five, finger. 用于指拳头。
@@ -836,8 +833,9 @@ V-T/V-I -- When you clench your fist or your fist clenches, you curl [kɝl] your
 •  Alex clenched her fists and gritted her teeth.
 亚丽克斯握紧拳头，咬紧牙。
 grit [ɡrɪt] vt. 研磨；在…上铺砂砾，覆以砂砾；咬紧牙关
-•  She pulled at his sleeve and he turned on her, fists clenching again before he saw who it was.
+•  She pulled at his sleeve [sliv] and he turned on her, fists clenching again before he saw who it was.
 她扯了扯他的袖子，他恶汹汹地转过身，在看见她是谁之前又再次握紧了拳头。
+sleeve [sliv] n. [机] 套筒，[机] 套管；袖子，[服装] 袖套
 V-T/V-I -- When you clench your teeth or they clench, you squeeze your teeth together firmly, usually because you are angry or upset. (常指因生气或不安而) 咬紧 (牙)
 •  Patsy had to clench her jaw to suppress her anger.
 帕茜不得不咬紧牙关来压下怒火。
@@ -847,6 +845,28 @@ V-T -- If you clench something in your hand or in your teeth, you hold it tightl
 4.
 clench 攥紧
 来自cling 拼写变体。比较stink,stench.
+
+# sleeve <note> [sliv]
+++ ( sleeves )
+N-COUNT -- The sleeves of a coat, shirt, or other item of clothing are the parts that cover your arms. 袖子
+•  His sleeves were rolled up to his elbows.
+他的两只袖子被挽到了肘部。
+N-COUNT [英国英语] -- A record sleeve is the stiff cover in which a record is kept. (唱片的) 套子
+•  ...an album sleeve.
+…一个唱片套。
+4.
+sleeve 袖子，袖管
+来自古英语 sliefe,袖子，来自 Proto-Germanicslaubjon,滑进，来自 PIEsleubh,滑动，滑进， 词源同 slip.字面意思即胳膊滑进去的套子。
+
+
+# sleeve <have something up your sleeve> [sliv]
+++ ( sleeves )
+PHRASE -- If you have something up your sleeve, you have an idea or plan which you have not told anyone about. You can also say that someone has an ace, card, or trick up their sleeve. 有锦囊妙计; 对…胸有成竹
+•  He wondered what tricks Shearson had up his sleeve.
+他想知道希尔森有何锦囊妙计。
+4.
+sleeve 袖子，袖管
+来自古英语 sliefe,袖子，来自 Proto-Germanicslaubjon,滑进，来自 PIEsleubh,滑动，滑进， 词源同 slip.字面意思即胳膊滑进去的套子。
 
 
 # grit <名词> [ɡrɪt]
@@ -893,7 +913,6 @@ re-,表强调，mark,作标记。引申词义评论，谈论。
 
 
 
-
 # iron <-has a lot of irons in the fire-> ['aɪɚn]
 ++ ( ironing, ironed, irons )
 PHRASE -- If someone has a lot of irons in the fire, they are involved in several different activities or have several different plans. 同时要做的事情
@@ -901,7 +920,6 @@ PHRASE -- If someone has a lot of irons in the fire, they are involved in severa
 同时做太多的事情可能会消耗你的精力，使你看不清该走哪条路。
 4.
 iron 铁，熨斗
-来自古英语isaern,铁，铁制品，铁制武器，来自PIEeis,坚硬的，坚固的。部分词源学家进一步推测来自PIEh1esh2r,血，词源同sanguine,血红色。由血引申词义血红，铁水，铁。同时，由于血在古代观念中的神圣含义，引申词义神圣的，强烈的感情，衍生ire,estrus,hieratic等。参照blood,bless.
 
 
 # obsess <note> [əb'sɛs]
@@ -948,6 +966,7 @@ fatigue [fə'tig] n. 疲劳，疲乏；杂役
 plague 瘟疫，祸患
 来自拉丁语plaga,瘟疫，灾害，来自plangere,击，打，哀伤，捶胸顿足，来自PIEplak,击，打，捶胸，可能来自声词，捶胸哀叹的声音，词源同plangent,apoplexy.比喻用法。
 
+
 # fatigue <本意-basic> [fə'tig]
 ++ ( fatigues )
 N-UNCOUNT -- Fatigue is a feeling of extreme physical or mental tiredness. 疲惫
@@ -987,6 +1006,7 @@ glaze [ɡlez] vt. 装以玻璃；上釉于
 carpet 地毯
 来自PIE sker, kerp, 砍，切，收割，词源同harvest, shear. 即用粗糙羊毛制作的毯子。
 
+
 # glaze <本意-basic> [ɡlez]
 ++ ( glazing, glazed, glazes )
 N-COUNT -- A glaze is a thin layer of liquid which is put on a piece of pottery ['pɑtəri] and becomes hard and shiny when the pottery is heated in a very hot oven. 釉 /yòu/
@@ -999,6 +1019,7 @@ V-N -- ~ sth (with sth) to cover sth with a glaze to give it a shiny surface 给
 4.
 glaze 装玻璃，上釉，呆滞
 词源同glass, 玻璃。字母s,z音变。
+
 
 # glaze <烹饪> [ɡlez]
 ++ ( glazing, glazed, glazes )
@@ -1013,6 +1034,38 @@ glaze 装玻璃，上釉，呆滞
 词源同glass, 玻璃。字母s,z音变。
 
 
+# shine <基本义> [ʃaɪn]
+++ ( shining, shone, shines )
+V-I -- When the sun or a light shines, it gives out bright light. 发光
+•  It is a mild morning and the sun is shining.
+这是一个和煦的早晨，太阳在照耀着。
+V-I -- Something that shines is very bright and clear because it is reflecting light. (因反光而) 发亮
+•  Her blue eyes shone and caught the light.
+她的蓝眼睛在光照下闪闪发亮。
+•  ...a pair of patent leather shoes that shone like mirrors.
+…一双像镜子那样闪光的黑漆皮鞋。
+N-SING -- Something that has a shine is bright and clear because it is reflecting light. 光泽
+•  This gel gives a beautiful shine to the hair.
+这种发胶带给头发一种美丽的光泽。
+V-T -- If you shine a flashlight or other light somewhere, you point it there, so that you can see something when it is dark. 用…照射
+•  One of the men shone a torch in his face.
+其中一个男子用火把照着他的脸。
+•  The man walked slowly toward her, shining the flashlight.
+那个男子照着手电筒慢慢地向她走去。
+4.
+shine 照耀，照明，发光
+来自古英语 scinan,照耀，照明，发光，来自 Proto-Germanicskinan,照耀，发光，来自 PIEskai, 照耀，发光，词源同 sheen,shimmer.
+
+
+# shine <引申义> [ʃaɪn]
+++ ( shining, shone, shines )
+V-I -- Someone who shines at a skill or activity does it extremely well. 干得出色
+•  Did you shine at school?
+你在学校出类拔萃吗？
+4.
+shine 照耀，照明，发光
+来自古英语 scinan,照耀，照明，发光，来自 Proto-Germanicskinan,照耀，发光，来自 PIEskai, 照耀，发光，词源同 sheen,shimmer.
+
 
 # terrain <note> [tə'ren]
 ++ ( terrains )
@@ -1024,6 +1077,7 @@ arable ['ærəbl] adj. 适于耕种的；可开垦的
 4.
 terrain 地形，地势
 terra-,土地，陆地，-ain,名词后缀。引申词义地形，地势。
+
 
 # arable <note> ['ærəbl]
 ADJ -- Arable farming involves growing crops such as wheat and barley rather than keeping animals or growing fruit and vegetables. Arable land is land that is used for arable farming. 耕种的
@@ -1047,19 +1101,7 @@ optical 视力的，光学的
 来自optic,眼的，眼睛的，引申词义视力的，光学的。
 
 
-# sling <动词1> [slɪŋ]
-++ ( slinging, slung, slings )
-V-T -- If you sling something somewhere, you throw it there carelessly. (随意) 扔
-•  Marla was recently seen slinging her shoes at Trump.
-最近玛拉被看到向特拉普扔她的鞋子。
-N -- a simple weapon consisting of a loop [lup] of leather ['lɛðɚ], etc, in which a stone is whirled and then let fly 投石器
-loop [lup] vi. 打环；翻筋斗
-leather ['lɛðɚ] n. 皮革；皮革制品
-4.
-sling 扔，掷，吊，挂，吊索，吊带，投石器
-来自古诺斯语 slyngva,扔，投掷，来自 Proto-Germanicslingwana,旋转，扭转，来自 PIEslenk, 扭转，转动，可能来自 PIEskel,弯，转，相关于 PIEsker,弯，转，词源同 shrimp,scoliosis. 引申诸相关词义。
-
-# whirl <note> [wɝrl]
+# whirl <本意-basic> [wɝrl]
 ++ ( whirling, whirled, whirls )
 V-T/V-I -- If something or someone whirls around or if you whirl them around, they move around or turn around very quickly. 使快速旋转; 快速旋转
 •  Not receiving an answer, she whirled around.
@@ -1069,6 +1111,12 @@ V-T/V-I -- If something or someone whirls around or if you whirl them around, th
 N-COUNT -- Whirl is also a noun. 快速旋转
 •  ...the barely audible whirl of wheels.
 …几乎听不见的轮子转动声。
+4.
+whirl 旋转
+词源同wharf,旋转，码头。
+
+# whirl <a whirl of> [wɝrl]
+++ ( whirling, whirled, whirls )
 N-COUNT -- You can refer to a lot of intense activity as a whirl of activity. 紧张激烈的一连串
 •  In half an hour's whirl of activity she does it all.
 在半个小时马不停蹄的忙碌中，她做完了这一切。
@@ -1087,6 +1135,19 @@ whirl 旋转
 词源同wharf,旋转，码头。
 
 
+# sling <动词1> [slɪŋ]
+++ ( slinging, slung, slings )
+V-T -- If you sling something somewhere, you throw it there carelessly. (随意) 扔
+•  Marla was recently seen slinging her shoes at Trump.
+最近玛拉被看到向特拉普扔她的鞋子。
+N -- a simple weapon consisting of a loop [lup] of leather ['lɛðɚ], etc, in which a stone is whirled and then let fly 投石器
+loop [lup] vi. 打环；翻筋斗
+leather ['lɛðɚ] n. 皮革；皮革制品
+4.
+sling 扔，掷，吊，挂，吊索，吊带，投石器
+来自古诺斯语 slyngva,扔，投掷，来自 Proto-Germanicslingwana,旋转，扭转，来自 PIEslenk, 扭转，转动，可能来自 PIEskel,弯，转，相关于 PIEsker,弯，转，词源同 shrimp,scoliosis. 引申诸相关词义。
+
+
 # sling <动词2> [slɪŋ]
 ++ ( slinging, slung, slings )
 V-T -- If you sling something over your shoulder or over something such as a chair, you hang it there loosely. (松散地) 悬起
@@ -1101,6 +1162,7 @@ N-COUNT -- A sling is an object made of ropes, straps, or cloth that is used for
 sling 扔，掷，吊，挂，吊索，吊带，投石器
 来自古诺斯语 slyngva,扔，投掷，来自 Proto-Germanicslingwana,旋转，扭转，来自 PIEslenk, 扭转，转动，可能来自 PIEskel,弯，转，相关于 PIEsker,弯，转，词源同 shrimp,scoliosis. 引申诸相关词义。
 
+
 # sling <动词3> [slɪŋ]
 ++ ( slinging, slung, slings )
 V-T [usu passive] -- If a rope, blanket, or other object is slung between two points, someone has hung it loosely between them. (在两头之间) 悬挂
@@ -1114,7 +1176,7 @@ sling 扔，掷，吊，挂，吊索，吊带，投石器
 来自古诺斯语 slyngva,扔，投掷，来自 Proto-Germanicslingwana,旋转，扭转，来自 PIEslenk, 扭转，转动，可能来自 PIEskel,弯，转，相关于 PIEsker,弯，转，词源同 shrimp,scoliosis. 引申诸相关词义。
 
 
-# sling <note> [slɪŋ]
+# sling <喝> [slɪŋ]
 ++ ( slinging, slung, slings )
 N -- a mixed drink with a spirit ['spɪrɪt] base, usually sweetened 含烈性酒的甜饮料
 spirit ['spɪrɪt] n. 精神；心灵；情绪；志气；烈酒
@@ -1122,11 +1184,14 @@ spirit ['spɪrɪt] n. 精神；心灵；情绪；志气；烈酒
 sling 扔，掷，吊，挂，吊索，吊带，投石器
 来自古诺斯语 slyngva,扔，投掷，来自 Proto-Germanicslingwana,旋转，扭转，来自 PIEslenk, 扭转，转动，可能来自 PIEskel,弯，转，相关于 PIEsker,弯，转，词源同 shrimp,scoliosis. 引申诸相关词义。
 
+
 # spirit <神灵> ['spɪrɪt]
 ++ ( spirits )
 N-COUNT -- A person's spirit is the nonphysical part of them that is believed to remain alive after their death. 灵魂
+## 一个人的精神是他们的非物质部分，被认为在他们死后仍然活着。
 •  His spirit has left him and all that remains is the shell of his body.
 他的灵魂已经离开了他，所剩的是他的躯壳。
+nonphysical = non-physical
 N-COUNT -- A spirit is a ghost or supernatural being. 幽灵
 •  In the Middle Ages branches were hung outside country houses as a protection against evil spirits.
 在中世纪树枝被挂在村舍外面作为对邪恶幽灵的防范。
@@ -1149,6 +1214,7 @@ N-UNCOUNT -- Spirit is the liveliness and energy that someone shows in what they
 4.
 spirit 精神，心灵，勇气，意志，烈酒，酒精，灵魂，小精灵，小妖精
 来自古法语 espirit,精神，灵魂，精气，来自拉丁语 spiritus,呼吸，吐气，神灵的呼吸，来自 spirare,呼吸，来自 PIEspeis,吹，词源同 conspire,perspire,respire.引申诸相关比喻义。比较另 一个拉丁词 anima,呼吸，生命，衍生词 animal,animation.
+
 
 # spirit <人-情绪> ['spɪrɪt]
 ++ ( spirits )
@@ -1184,9 +1250,10 @@ spirit 精神，心灵，勇气，意志，烈酒，酒精，灵魂，小精灵�
 N-SING -- The spirit of something such as a law or an agreement is the way that it was intended to be interpreted or applied. 宗旨
 •  The requirement for work permits violates the spirit of the 1950 treaty.
 对工作许可证的要求违反了1950年条约的宗旨。
-N-PLURAL -- Spirits are strong alcoholic drinks such as whisky and gin. 烈酒
+N-PLURAL -- Spirits are strong alcoholic drinks such as whisky and gin [dʒɪn]. 烈酒
 •  The only problem here is that they don't serve beer - only wine and spirits.
 这儿惟一的问题是他们不供应啤酒——只供应葡萄酒和烈酒。
+gin [dʒɪn] n. 杜松子酒；网；[机] 三角起重机
 4.
 spirit 精神，心灵，勇气，意志，烈酒，酒精，灵魂，小精灵，小妖精
 来自古法语 espirit,精神，灵魂，精气，来自拉丁语 spiritus,呼吸，吐气，神灵的呼吸，来自 spirare,呼吸，来自 PIEspeis,吹，词源同 conspire,perspire,respire.引申诸相关比喻义。比较另 一个拉丁词 anima,呼吸，生命，衍生词 animal,animation.
@@ -1212,6 +1279,7 @@ ADJ -- A minor illness or operation is not likely to be dangerous to someone's l
 4.
 minor 较小的，较少的，次要的
 来自拉丁语minor,较小的，次等的，来自PIEmei,小的，词源同minute,minus.-or,比较级后缀。
+
 
 # minor <人> ['maɪnɚ]
 ++ ( minors )
@@ -1245,6 +1313,7 @@ N-COUNT -- A Hispanic is someone who is Hispanic. 拉美裔美国人
 Hispanic 西班牙的
 来自拉丁语Hispanic,西班牙拉丁名，即Spain.拼写比较history,story.
 拉丁美洲以前是西班牙的殖民地
+Spanish ['spænɪʃ] adj. 西班牙的；西班牙人的；西班牙语的
 
 
 # slug <动物> [slʌɡ]
@@ -1252,14 +1321,13 @@ Hispanic 西班牙的
 N-COUNT -- A slug is a small slow-moving creature with a long soft body and no legs, like a snail without a shell. 鼻涕虫
 4.
 slug 懒鬼，蛞蝓
-来自辅音丛 sl-,邋遢的，懒的，比较 slattern,slut,sloven,slug.引申词义懒鬼，后用于指蛞蝓， 一种蜗牛。
-可能来自 Proto-Germanicslog,猛击，击打，来自 PIEslak,猛击，击打，词源同 slay,slog,slag. 引申词义猎枪子弹，铅弹，金属圆片。
 
 
 # slug <动词> [slʌɡ]
 ++ ( slugs )
 V -- to hit very hard and solidly, as in boxing 重击
-N -- a bullet or pellet larger than a pellet of buckshot 弹丸; 子弹
+N -- a bullet or pellet ['pɛlɪt] larger than a pellet of buckshot 弹丸; 子弹
+pellet ['pɛlɪt] n. 小球；[军] 小子弹（枪用）
 4.
 slug 懒鬼，蛞蝓
 来自辅音丛 sl-,邋遢的，懒的，比较 slattern,slut,sloven,slug.引申词义懒鬼，后用于指蛞蝓， 一种蜗牛。
@@ -1268,7 +1336,7 @@ slug 懒鬼，蛞蝓
 
 # Uighur <note> [wigʊr]
 ++ (also Uighur)
-N -- a member of a Mongoloid people of NW China, uzbekistan, Kyrgyzstan  /ˌkæzək'stæn/ , and Kazakhstan 维吾尔人; 居住在中国新疆、乌兹别克斯坦、吉尔吉斯斯坦和哈萨克斯坦
+N -- a member of a Mongoloid  /'mɑŋgə,lɔɪd/  people of NW China, uzbekistan, Kyrgyzstan  /ˌkæzək'stæn/ , and Kazakhstan 维吾尔人; 居住在中国新疆、乌兹别克斯坦、吉尔吉斯斯坦和哈萨克斯坦
 4.
 
 
@@ -1292,7 +1360,7 @@ bolt 螺栓，闪电
 来自PIE bheld, 击，打。可能同bill, 击，咬，鸟嘴。
 
 
-# bolt <note> [bolt]
+# bolt <速度> [bolt]
 ++ ( bolting, bolted, bolts )
 V-I -- If a person or animal bolts, they suddenly start to run very fast, often because something has frightened them. (因受惊吓) 突然快跑
 •  The pig rose squealing and bolted.
@@ -1305,9 +1373,9 @@ bolt 螺栓，闪电
 来自PIE bheld, 击，打。可能同bill, 击，咬，鸟嘴。
 
 
-# bolt <note> [bolt]
+# bolt <吃> [bolt]
 ++ ( bolting, bolted, bolts )
-V -- to pass (flour, a powder, etc) through a sieve 筛(面粉、粉末等)
+V -- to pass flour, a powder, etc through a sieve 筛(面粉、粉末等)
 PHRASAL VERB -- Bolt down means the same as . 吞吃
 •  I like to think back to high school, when I could bolt down three or four burgers and a pile of French fries.
 我喜欢回想高中时，那时我可以一气吞下三四个汉堡和一大堆炸薯条。
@@ -1389,12 +1457,6 @@ ADV -- superbly 极好地
 ADJ -- If you say that someone has superb confidence, control, or skill, you mean that they have very great confidence, control, or skill. (信心、控制力或技巧) 超凡的
 •  With superb skill he managed to make a perfect landing.
 他以超凡的技巧设法完成了一次完美的着陆。
-4.
-superb 卓越的，极佳的
-来自拉丁语 superbus,卓越的，壮观的，等同于 super,在上，超过，be,存在，成为。
-
-
-# superb <note> [su'pɝb]
 ADV -- superbly 超凡地
 •  ...his superbly disciplined opponent.
 …他的那个受过超凡训练的对手。
@@ -1448,16 +1510,9 @@ materialize 使实现，发生
 N-VAR -- Cloves are small dried flower buds which are used as a spice. (用作调料的) 干丁香花苞
 •  ...chicken soup with cloves.
 …加入干丁香花苞的鸡汤。
-N-COUNT -- a tropical evergreen myrtaceous tree, Syzygium aromaticum, native to the East Indies but cultivated elsewhere, esp Zanzibar 丁子香
+N-COUNT -- a tropical evergreen myrtaceous /mɜːˈteɪʃəs/tree, Syzygium aromaticum, native to the East Indies but cultivated elsewhere, esp Zanzibar 丁子香
+## 一种热带的常绿的桃金娘科树，芳香的合欢树，原产于东印度群岛，但在其他地方种植，尤指桑给巴尔
 N-COUNT -- A clove of garlic is one of the sections of a garlic bulb. 蒜瓣
-4.
-clove 丁香，蒜瓣
-1.丁香，来自clav-,弯钉，钥匙，词源同clavicle.因这种花花瓣形如小弯钉而得名。 2.蒜瓣，词源同cleave,cleft.因形如被劈成的瓣状而得名。
-
-
-# clove <note> [klov]
-++ ( cloves )
-V -- cleave的过去式 → a past tense of cleave
 4.
 clove 丁香，蒜瓣
 1.丁香，来自clav-,弯钉，钥匙，词源同clavicle.因这种花花瓣形如小弯钉而得名。 2.蒜瓣，词源同cleave,cleft.因形如被劈成的瓣状而得名。
@@ -1468,33 +1523,33 @@ ADJ -- If you describe something as unequalled, you mean that it is greater, bet
 •  This record figure was unequalled for 13 years.
 这项纪录13年无人能比。
 4.
+un equal 能力没有人和它一样
 
 
-# ditch <note> [dɪtʃ]
+# ditch <基本动词> [dɪtʃ]
 ++ ( ditching, ditched, ditches )
-N-COUNT -- A ditch is a long narrow channel cut into the ground at the side of a road or field. 道沟; 沟渠
-•  Both vehicles ended up in a ditch.
-两辆车都掉进了沟里。
 V-T [非正式] -- If you ditch something that you have or are responsible for, you abandon it or get rid of it, because you no longer want it. 丢弃
 •  I decided to ditch the sofa bed.
 我决定把沙发床扔掉。
 V-T [非正式] -- If someone ditches someone, they end a relationship with that person. 抛弃
 •  I can't bring myself to ditch him and start again.
 我不能说服自己抛弃他，又重新开始。
+V-T [美国英语]  -- If someone ditches school or work, they decide not to go to school or work, although they are supposed to go there. 逃学; 旷工
+•  What do you say we ditch school and go to the mall?
+我们逃学去商场，你觉得怎样？
 4.
 ditch 沟渠
 词源同dig, dike. 插入字母t, 比较bake, batch.
 
 
-# ditch <note> [dɪtʃ]
+# ditch <引申含义> [dɪtʃ]
 ++ ( ditching, ditched, ditches )
+N-COUNT -- A ditch is a long narrow channel cut into the ground at the side of a road or field. 道沟; 沟渠
+•  Both vehicles ended up in a ditch.
+两辆车都掉进了沟里。
 V-T/V-I -- If a pilot ditches an aircraft or if it ditches, the pilot makes an emergency landing. (飞机) 紧急迫降
 •  One American pilot was forced to ditch his jet in the Gulf.
 一个美国飞行员被迫在海湾紧急迫降其喷气式飞机。
-V-T [美国英语] [非正式] -- If someone ditches school or work, they decide not to go to school or work, although they are supposed to go there. 逃学; 旷工
-•  What do you say we ditch school and go to the mall?
-我们逃学去商场，你觉得怎样？
- -- → see also last-ditch
 4.
 ditch 沟渠
 词源同dig, dike. 插入字母t, 比较bake, batch.
@@ -1527,8 +1582,9 @@ redundant 多余的，被裁员的
 N-UNCOUNT -- Surveillance is the careful watching of someone, especially by an organization such as the police or the army. 监视
 •  He was arrested after being kept under constant surveillance.
 他在被连续监视之后给逮捕了。
-•  Police swooped on the home after a two-week surveillance operation.
+•  Police swooped [swup] on the home after a two-week surveillance operation.
 警方经过两周的监视行动后突击搜查了该住宅。
+swoop [swup] vi. 猛扑；突然袭击；突然下降；飞扑
 4.
 surveillance 监视
 来自法语 surveiller,监督，看管，来自 sur-,在上，veiller,看，看护，来自拉丁语 vigilare,看， 看护，词源同 vigil,wake.拼写比较 rail,regulate.后引申词义监视。
@@ -1564,15 +1620,26 @@ V-I -- When you kneel, you bend your legs so that your knees are touching the gr
 她跪在床边祷告。
 •  Other people were kneeling, but she just sat.
 别人都跪下，但她只是坐着。
-PHRASAL VERB -- Kneel down means the same as . 跪下
+PHRASAL VERB -- Kneel down means the same as kneel. 跪下
 •  She kneeled down beside him.
 她在他身边跪下。
 4.
 kneel 跪下
 来自古英语cneowlian,下跪，跪下，来自knee,膝，-le,工具格后缀。
 
+# lavish <adj-人> ['lævɪʃ]
+++ ( lavishing, lavished, lavishes )
+ADJ -- If you say that someone is lavish in the way they behave, you mean that they give, spend, or use a lot of something. 慷慨的
+•  Reviewers are lavish in their praise of this book.
+评论家们对于这本书大加赞赏。
+ADV [ADV with v] -- lavishly 慷慨地
+•  Entertaining in style needn't mean spending lavishly.
+时尚娱乐并不意味着要无度地花钱。
+4.
+lavish 大量的
+来自拉丁语lavare,冲洗，涌出，词源同lava,dilute,antediluvian,-ish,形容词后缀。即大量涌出的，大量的。
 
-# lavish <note> ['lævɪʃ]
+# lavish <adj-物> ['lævɪʃ]
 ++ ( lavishing, lavished, lavishes )
 ADJ -- If you describe something as lavish, you mean that it is very elaborate and impressive and a lot of money has been spent on it. 盛大奢华的
 •  ...a lavish party to celebrate Bryan's fiftieth birthday.
@@ -1583,21 +1650,14 @@ ADV [ADV with v] -- lavishly 盛大奢华地
 •  The apartment building was lavishly decorated.
 这幢公寓楼装修豪华。
 ADJ -- If you say that spending, praise, or the use of something is lavish, you mean that someone spends a lot or that something is praised or used a lot. 挥霍的
-•  Critics attack his lavish spending and flamboyant style.
+•  Critics attack his lavish spending and flamboyant [flæm'bɔɪənt] style.
 批评家们抨击他的挥霍无度和过分夸张的作风。
+flamboyant [flæm'bɔɪənt] adj. 艳丽的；火焰似的；炫耀的
 4.
 lavish 大量的
 来自拉丁语lavare,冲洗，涌出，词源同lava,dilute,antediluvian,-ish,形容词后缀。即大量涌出的，大量的。
 
-
-# lavish <note> ['lævɪʃ]
-++ ( lavishing, lavished, lavishes )
-ADJ -- If you say that someone is lavish in the way they behave, you mean that they give, spend, or use a lot of something. 慷慨的
-•  Reviewers are lavish in their praise of this book.
-评论家们对于这本书大加赞赏。
-ADV [ADV with v] -- lavishly 慷慨地
-•  Entertaining in style needn't mean spending lavishly.
-时尚娱乐并不意味着要无度地花钱。
+# lavish <动词> ['lævɪʃ]
 V-T -- If you lavish money, affection, or praise on someone or something, you spend a lot of money on them or give them a lot of affection or praise. 为…花很多钱; 对…十分殷勤; 对…大加赞赏
 •  He lavished praise on his opponents.
 他对他的对手大加赞赏。
@@ -1612,12 +1672,12 @@ ADJ -- Cuban means belonging or relating to Cuba, or to its people or culture. �
 N-COUNT -- A Cuban is a Cuban citizen, or a person of Cuban origin. 古巴人
 4.
 
-
 # chiffon <note> [ʃɪ'fɑn]
 ++ ( chiffons )
-N-MASS -- Chiffon is a kind of very thin silk or nylon cloth that you can see through. 雪纺绸 (一种透明的薄绸或薄尼龙面料)
+N-MASS -- Chiffon is a kind of very thin silk or nylon ['naɪlɑn] cloth that you can see through. 雪纺绸 (一种透明的薄绸或薄尼龙面料)
 •  ...floaty chiffon skirts.
 …飘动的薄绸裙。
+nylon ['naɪlɑn] n. 尼龙，[纺] 聚酰胺纤维；尼龙袜
 4.
 chiffon 雪纺绸
 词源同chip,碎片。原来指条块状的破布，后来指蕾丝状的上等布料。
