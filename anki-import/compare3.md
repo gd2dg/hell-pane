@@ -32,7 +32,7 @@ congenital [kən'dʒɛnɪtl] adj. 先天的，天生的；天赋的
 
 # lunge, lounge
 
-# repress,conpress
+# repress,compress
 
 # blizzard,bizarre
 
@@ -57,3 +57,7 @@ congenital [kən'dʒɛnɪtl] adj. 先天的，天生的；天赋的
 # corporate, cooperate
 
 # complimentary,complementary
+
+# principle,principal
+
+# adhere,adhesive
