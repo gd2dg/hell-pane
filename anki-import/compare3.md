@@ -61,3 +61,9 @@ congenital [kən'dʒɛnɪtl] adj. 先天的，天生的；天赋的
 # principle,principal
 
 # adhere,adhesive
+
+# contagious,contiguous
+
+# rag,rug
+
+# rebuke,refute,rebut
