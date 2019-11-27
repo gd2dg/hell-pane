@@ -1769,26 +1769,6 @@ V-I -- If you circulate at a party, you move among the guests and talk to differ
 对不起，我真得去应酬一下了。
 4.
 
-manoeuvre
-scratch
-stiff
-complication
-acquit
-impose
-inquiry
-cultivate
-situate
-follow
-soar
-individual
-spotlight
-stifle
-machinery
-kidnap
-vowel
-content
-property
-
 # manoeuvre <基本动作> [mə'nuːvə]
 ++ ( manoeuvring, manoeuvred, manoeuvres )
 V-T/V-I -- If you manoeuvre something into or out of an awkward position, you skilfully move it there. (熟练地) 移动
@@ -1845,11 +1825,17 @@ scratch 抓，挠
 可能来自中古英语 scratten,抓，挠，最终来自 PIEsker,砍，切，削，刮，词源同 scar,scrape.
 
 
-# scratch <note> [skrætʃ]
+# scratch -<do something from scratch> [skrætʃ]
 ++ ( scratching, scratched, scratches )
 PHRASE -- If you do something from scratch, you do it without making use of anything that has been done before. 从零开始
 •  Building a home from scratch can be both exciting and challenging.
 白手起家既激动人心又具有挑战性。
+4.
+scratch 抓，挠
+可能来自中古英语 scratten,抓，挠，最终来自 PIEsker,砍，切，削，刮，词源同 scar,scrape.
+
+# scratch -<scratch your head> [skrætʃ]
+++ ( scratching, scratched, scratches )
 PHRASE -- If you say that someone is scratching their head, you mean that they are thinking hard and trying to solve a problem or puzzle. 绞尽脑汁思考
 •  The Institute spends a lot of time scratching its head about how to boost American productivity.
 这家研究所花大量时间绞尽脑汁思考怎样推进美国的生产力。
@@ -1858,7 +1844,7 @@ scratch 抓，挠
 可能来自中古英语 scratten,抓，挠，最终来自 PIEsker,砍，切，削，刮，词源同 scar,scrape.
 
 
-# stiff <note> [stɪf]
+# stiff <物> [stɪf]
 ++ ( stiffer, stiffest )
 ADJ -- Something that is stiff is firm or does not bend easily. 硬的; 不易弯曲的
 •  The furniture was stiff, uncomfortable, too delicate, and too neat.
@@ -1876,7 +1862,7 @@ stiff 硬的，僵硬的，生硬的，艰难的
 来自古英语 stif,硬的，僵硬的，来自 Proto-Germanicstifaz,僵硬的，无弹性的，来自 PIEsteip, 压紧，打包，塞满，可能来自 PIEsteu,推，挤，击打，词源同 steep,stoop,stuff.
 
 
-# stiff <note> [stɪf]
+# stiff <人> [stɪf]
 ++ ( stiffer, stiffest )
 ADJ -- If you are stiff, your muscles or joints hurt when you move, because of illness or because of too much exercise. 酸痛的
 •  The mud bath is particularly recommended for relieving tension and stiff muscles.
@@ -1887,32 +1873,9 @@ ADV -- stiffly 酸痛地
 ADJ -- Stiff behaviour is rather formal and not very friendly or relaxed. 拘谨的; 生硬的
 •  They always seemed a little awkward with each other, a bit stiff and formal.
 他们总是彼此显得有点儿别扭，有几分拘谨，不太随意。
-4.
-stiff 硬的，僵硬的，生硬的，艰难的
-来自古英语 stif,硬的，僵硬的，来自 Proto-Germanicstifaz,僵硬的，无弹性的，来自 PIEsteip, 压紧，打包，塞满，可能来自 PIEsteu,推，挤，击打，词源同 steep,stoop,stuff.
-
-
-# stiff <note> [stɪf]
-++ ( stiffer, stiffest )
 ADV -- stiffly 拘谨地; 生硬地
 •  "Why don't you borrow your sister's car?" said Cassandra stiffly.
 “为什么不借你姐姐的车？”卡珊德拉生硬地说道。
-ADJ -- Stiff can be used to mean difficult or severe. 艰难的; 激烈的
-•  She faces stiff competition in the Best Actress category.
-她在最佳女演员这个奖项上面临着激烈的竞争。
-ADV [非正式] [adj ADV] -- If you are bored stiff, worried stiff, or scared stiff, you are extremely bored, worried, or scared. 极度地
-•  Anna tried to look interested. Actually, she was bored stiff.
-安娜试图装出感兴趣的样子。实际上她都厌烦透了。
-4.
-stiff 硬的，僵硬的，生硬的，艰难的
-来自古英语 stif,硬的，僵硬的，来自 Proto-Germanicstifaz,僵硬的，无弹性的，来自 PIEsteip, 压紧，打包，塞满，可能来自 PIEsteu,推，挤，击打，词源同 steep,stoop,stuff.
-
-
-# stiff <note> [stɪf]
-++ ( stiffer, stiffest )
-ADJ [v n ADJ] -- Stiff is also an adjective. 极度的
-•  Even if he bores you stiff, it is good manners not to let him know it.
-即使他把你烦透了，出于礼貌你也不能让他看出来。
 4.
 stiff 硬的，僵硬的，生硬的，艰难的
 来自古英语 stif,硬的，僵硬的，来自 Proto-Germanicstifaz,僵硬的，无弹性的，来自 PIEsteip, 压紧，打包，塞满，可能来自 PIEsteu,推，挤，击打，词源同 steep,stoop,stuff.
@@ -1941,45 +1904,45 @@ acquit 宣判无罪
 前缀ac-同ad-, 去，往。quit, 离开，词源同quiet。即无罪释放。
 
 
-# impose <note> [ɪm'poz]
+# impose <上级对下级> [ɪm'poz]
 ++ ( imposing, imposed, imposes )
 V-T -- If you impose something on people, you use your authority to force them to accept it. 强制实行
 •  Fines are imposed on retailers who sell tobacco to minors.
 向未成年人销售烟草制品的零售商要被强制罚款。
 •  A third of companies reviewing pay since last August have imposed a pay freeze of up to a year.
 自去年8月以来，在审检工资发放的公司中，有三分之一已经强行实施工资冻结长达1年。
-N-UNCOUNT -- imposition 强制实行
-•  ...the imposition of sanctions against Pakistan.
-…对巴基斯坦制裁的强制实行。
 V-T -- If you impose your opinions or beliefs on other people, you try and make people accept them as a rule or as a model to copy. 把 (观点、信仰等) 强加于
 •  Parents should beware of imposing their own tastes on their children.
 父母应该提防把自己的兴趣强加给孩子。
+N-UNCOUNT -- imposition 强制实行
+•  ...the imposition of sanctions against Pakistan.
+…对巴基斯坦制裁的强制实行。
 4.
 impose 推行，强加
 im-,进入，使，-pos,放置，词源同position,compose.即放置，施压，引申词义推行，强加。
 
 
-# impose <note> [ɪm'poz]
+# impose <不同人之间> [ɪm'poz]
 ++ ( imposing, imposed, imposes )
 V-T -- If something imposes strain, pressure, or suffering on someone, it causes them to experience it. 使承受 (令人不快之事物)
 •  The filming imposed an additional strain on her.
 影片拍摄使她承受了额外的压力。
+V-T -- If someone imposes themselves on you, they force you to accept their company although you may not want to. 使强迫接受
+•  I didn't want to impose myself on my married friends.
+我不想硬要我的已婚朋友们接受我。
+4.
+impose 推行，强加
+im-,进入，使，-pos,放置，词源同position,compose.即放置，施压，引申词义推行，强加。
+
+
+# impose <索取> [ɪm'poz]
+++ ( imposing, imposed, imposes )
 V-I -- If someone imposes on you, they unreasonably expect you to do something for them which you do not want to do. 不合理地要求
 •  I was afraid you'd feel we were imposing on you.
 我担心你会觉得我们在不合理地要求你。
 N-COUNT -- imposition 不合理的要求
 •  I know this is an imposition. But please hear me out.
 我知道这是个不合理的要求，但请听我把话说完。
-4.
-impose 推行，强加
-im-,进入，使，-pos,放置，词源同position,compose.即放置，施压，引申词义推行，强加。
-
-
-# impose <note> [ɪm'poz]
-++ ( imposing, imposed, imposes )
-V-T -- If someone imposes themselves on you, they force you to accept their company although you may not want to. 使强迫接受
-•  I didn't want to impose myself on my married friends.
-我不想硬要我的已婚朋友们接受我。
 4.
 impose 推行，强加
 im-,进入，使，-pos,放置，词源同position,compose.即放置，施压，引申词义推行，强加。
@@ -1999,7 +1962,7 @@ N-UNCOUNT -- Inquiry is the process of asking about or investigating something i
 4.
 
 
-# cultivate <note> ['kʌltɪvet]
+# cultivate <本意-basic> ['kʌltɪvet]
 ++ ( cultivating, cultivated, cultivates )
 V-T -- If you cultivate land or crops, you prepare land and grow crops on it. 开垦; 种植
 •  She also cultivated a small garden of her own.
@@ -2007,22 +1970,22 @@ V-T -- If you cultivate land or crops, you prepare land and grow crops on it. �
 N-UNCOUNT -- cultivation 开垦; 种植
 •  ...the cultivation of fruits and vegetables.
 …水果蔬菜的种植。
-V-T -- If you cultivate an attitude, image, or skill, you try hard to develop it and make it stronger or better. 培养 (态度、技巧等); 树立 (形象、观念等)
-•  He has written eight books and has cultivated the image of an elder statesman.
-他已写了8本书，并树立了一个政界元老的形象。
 4.
 cultivate 耕作
 来自cult-,耕作。
 
 
-# cultivate <note> ['kʌltɪvet]
+# cultivate <引申> ['kʌltɪvet]
 ++ ( cultivating, cultivated, cultivates )
-N-UNCOUNT -- cultivation 培养; 树立
-•  ...the cultivation of a positive approach to life and health.
-…积极的生活和健康观的树立。
 V-T -- If you cultivate someone or cultivate a friendship with them, you try hard to develop a friendship with them. 建立 (友谊)
 •  Howe carefully cultivated Daniel C. Roper, the Assistant Postmaster General.
 豪精心与邮政助理部长丹尼尔·C·罗珀拉关系。
+V-T -- If you cultivate an attitude, image, or skill, you try hard to develop it and make it stronger or better. 培养 (态度、技巧等); 树立 (形象、观念等)
+•  He has written eight books and has cultivated the image of an elder statesman.
+他已写了8本书，并树立了一个政界元老的形象。
+N-UNCOUNT -- cultivation 培养; 树立
+•  ...the cultivation of a positive approach to life and health.
+…积极的生活和健康观的树立。
 4.
 cultivate 耕作
 来自cult-,耕作。
@@ -2031,14 +1994,15 @@ cultivate 耕作
 # situate <note> ['sɪtʃʊet]
 ++ ( situating, situated, situates )
 V-T [正式] -- If you situate something such as an idea or fact in a particular context, you relate it to that context, especially in order to understand it better. 使处于
-•  How do we situate Christianity in the context of modern physics and psychology?
+•  How do we situate Christianity [,kristi'ænəti] in the context of modern physics and psychology?
 我们如何将基督教置于现代物理学和心理学的背景中呢？
+Christianity [,kristi'ænəti] n. 基督教；基督教精神，基督教教义
 4.
 situate 坐落于，位于
 来自拉丁语 situare,放置，位于，坐落，来自 situs,地点，位置，词源同 site.
 
 
-# follow <GO OR COME AFTER> ['fɑlo]
+# follow <人-行为> ['fɑlo]
 ++ ( following, followed, follows )
 NaNV-T/V-I -- If you follow someone who is going somewhere, you move along behind them because you want to go to the same place. 跟随
 •  We followed him up the steps into a large hall.
@@ -2058,11 +2022,12 @@ follow 跟随
 来自Proto-Germanicfulg, 陪伴，跟随，词源同full. 部分学者解释g来自gan, 走，词源同gang. 即跟着走的人，随从。
 
 
-# follow <note> ['fɑlo]
+# follow <事件> ['fɑlo]
 ++ ( following, followed, follows )
 V-T/V-I -- An event, activity, or period of time that follows a particular thing happens or comes after that thing, at a later time. 在…后到来; 接着…发生
-•  ...the rioting and looting that followed the verdict.
+•  ...the rioting and looting that followed the verdict ['vɝdɪkt].
 …判决之后发生的暴乱和抢劫。
+verdict ['vɝdɪkt] n. 结论；裁定
 •  Other problems may follow.
 其它问题也许会随之而来。
 V-T -- If you follow one thing with another, you do or say the second thing after you have done or said the first thing. 随后做
@@ -2076,52 +2041,92 @@ follow 跟随
 来自Proto-Germanicfulg, 陪伴，跟随，词源同full. 部分学者解释g来自gan, 走，词源同gang. 即跟着走的人，随从。
 
 
-# follow <note> ['fɑlo]
+# follow <事件进展> ['fɑlo]
 ++ ( following, followed, follows )
-V-T/V-I -- If it follows that a particular thing is the case, that thing is a logical result of something else being true or being the case. 理所当然
-•  Just because a bird does not breed one year, it does not follow that it will fail the next.
-不能仅仅因为鸟一年没有繁殖就推断它下一年也不会繁殖。
-•  If the explanation is right, two things follow.
-如果该解释正确，那么就有两种情形。
+V-T -- Something that follows a particular course of development happens or develops in that way. 按照…方式发展
+•  His release turned out to follow the pattern set by that of the other six hostages.
+他的获释方式结果和其他6位人质相同。
+V-T -- If you follow someone in what you do, you do the same thing or job as they did previously. 沿袭
+•  He followed his father and became a surgeon.
+他沿袭了他父亲，成了一名外科医生。
+4.
+follow 跟随
+来自Proto-Germanicfulg, 陪伴，跟随，词源同full. 部分学者解释g来自gan, 走，词源同gang. 即跟着走的人，随从。
+
+
+
+# verdict <note> ['vɝdɪkt]
+++ ( verdicts )
+N-COUNT -- In a court of law, the verdict is the decision that is given by the jury or judge at the end of a trial. 裁决
+•  The jury returned a unanimous [jʊ'nænəməs] guilty verdict.
+该陪审团作出了一份一致通过的有罪裁决。
+unanimous [jʊ'nænəməs] adj. 全体一致的；意见一致的；无异议的
+N-COUNT -- Someone's verdict on something is their opinion of it, after thinking about it or investigating it. 判断
+•  The doctor's verdict was that he was entirely healthy.
+这名医生的判断是他完全是健康的。
+4.
+verdict 裁决
+ver-,真实的，词源同verify,-dict,说，词源同dictionary.引申词义公正，裁决。
+
+
+# unanimous <note> [jʊ'nænəməs]
+ADJ -- When a group of people are unanimous, they all agree about something or all vote for the same thing. 一致同意的
+•  Editors were unanimous in their condemnation of the proposals.
+编辑们一致谴责这些提议。
+ADV [ADV with v] -- unanimously 一致同意地
+•  The board unanimously approved the project last week.
+董事会上周一致同意批准了这个项目。
+ADJ -- A unanimous vote, decision, or agreement is one in which all the people involved agree. 全体同意的 (投票、决定、协议等)
+•  Their decision was unanimous.
+他们的决定是全体同意的。
+4.
+unanimous 一致的
+un-, 一，词源同unit, -anim, 呼吸，词源同animal, animate.引申词义一致同意。
+
+
+# follow <叙述> ['fɑlo]
+++ ( following, followed, follows )
 V-T/V-I -- If you refer to the words that follow or followed, you are referring to the words that come next or came next in a piece of writing or speech. 接下来
 •  What follows is an eye-witness account.
 接下来是目击者的陈述。
 •  There followed a list of places where Hans intended to visit.
 接下来是一张汉斯打算参观的地点列表。
+4.
+follow 跟随
+来自Proto-Germanicfulg, 陪伴，跟随，词源同full. 部分学者解释g来自gan, 走，词源同gang. 即跟着走的人，随从。
+
+# follow <it follows that + 从句> ['fɑlo]
+++ ( following, followed, follows )
+V-T/V-I -- If it follows that a particular thing is the case, that thing is a logical result of something else being true or being the case. 理所当然, 推论出
+•  Just because a bird does not breed one year, it does not follow that it will fail the next.
+不能仅仅因为鸟一年没有繁殖就推断它下一年也不会繁殖。
+•  If the explanation is right, two things follow.
+如果该解释正确，那么就有两种情形。
+4.
+follow 跟随
+来自Proto-Germanicfulg, 陪伴，跟随，词源同full. 部分学者解释g来自gan, 走，词源同gang. 即跟着走的人，随从。
+
+
+# follow <人-移动> ['fɑlo]
+++ ( following, followed, follows )
+V-T -- If something such as a path or river follows a particular route or line, it goes along that route or line. 沿着
+•  Our route follows the Pacific coast through densely populated neighbourhoods.
+我们一路沿着太平洋海岸，穿过人口稠密的街区。
 V-T -- If you follow a path, route, or set of signs, you go somewhere using the path, route, or signs to direct you. 沿着…走
 •  If they followed the road, they would be certain to reach a village.
 如果他们沿着这条路走，一定会抵达一个村庄。
 •  All we had to do was follow the map.
 所有我们要做的是按照地图走。
-4.
-follow 跟随
-来自Proto-Germanicfulg, 陪伴，跟随，词源同full. 部分学者解释g来自gan, 走，词源同gang. 即跟着走的人，随从。
-
-
-# follow <note> ['fɑlo]
-++ ( following, followed, follows )
-V-T -- If something such as a path or river follows a particular route or line, it goes along that route or line. 沿着
-•  Our route follows the Pacific coast through densely populated neighbourhoods.
-我们一路沿着太平洋海岸，穿过人口稠密的街区。
 V-T -- If you follow something with your eyes, or if your eyes follow it, you watch it as it moves or you look along its route or course. (视线) 随…而移动
 •  Ann's eyes followed a police car as it drove slowly past.
 安的眼睛注视着一辆缓缓开过的警车。
-V-T -- Something that follows a particular course of development happens or develops in that way. 按照…方式发展
-•  His release turned out to follow the pattern set by that of the other six hostages.
-他的获释方式结果和其他6位人质相同。
 4.
 follow 跟随
 来自Proto-Germanicfulg, 陪伴，跟随，词源同full. 部分学者解释g来自gan, 走，词源同gang. 即跟着走的人，随从。
 
 
-# follow <note> ['fɑlo]
+# follow -<follow by> ['fɑlo]
 ++ ( following, followed, follows )
-V-T -- If you follow someone in what you do, you do the same thing or job as they did previously. 沿袭
-•  He followed his father and became a surgeon.
-他沿袭了他父亲，成了一名外科医生。
-PHRASE -- You use as follows in writing or speech to introduce something such as a list, description, or an explanation. 如下
-•  The winners are as follows: E. Walker; R. Foster; R. Gates; A. Mackintosh.
-获胜者如下：E.沃克、R.福斯特、R.盖茨和A.麦金托什。
 PHRASE -- You use followed by to say what comes after something else in a list or ordered set of things. 由…紧接着
 •  Potatoes are still the most popular food, followed by white bread.
 土豆仍然是最受欢迎的食品，其次为白面包。
@@ -2130,25 +2135,7 @@ follow 跟随
 来自Proto-Germanicfulg, 陪伴，跟随，词源同full. 部分学者解释g来自gan, 走，词源同gang. 即跟着走的人，随从。
 
 
-# follow <note> ['fɑlo]
-++ ( following, followed, follows )
- -- → see also following
- -- to follow in someone's footsteps →see footstep
- -- to follow your nose →see nose
-4.
-follow 跟随
-来自Proto-Germanicfulg, 陪伴，跟随，词源同full. 部分学者解释g来自gan, 走，词源同gang. 即跟着走的人，随从。
-
-
-# follow <note> ['fɑlo]
-++ ( following, followed, follows )
- -- to follow suit →see suit
-4.
-follow 跟随
-来自Proto-Germanicfulg, 陪伴，跟随，词源同full. 部分学者解释g来自gan, 走，词源同gang. 即跟着走的人，随从。
-
-
-# follow <ACT ACCORDING TO SOMETHING, OBSERVE SOMETHING> ['fɑlo]
+# follow <学习> ['fɑlo]
 ++ ( following, followed, follows )
 NaNV-T -- If you follow advice, an instruction, or a recipe, you act or do something in the way that it indicates. 听从 (建议、指示或药法)
 •  Take care to follow the instructions carefully.
@@ -2156,6 +2143,13 @@ NaNV-T -- If you follow advice, an instruction, or a recipe, you act or do somet
 V-T/V-I -- If you follow what someone else has done, you do it too because you think it is a good thing or because you want to copy them. 仿效
 •  His admiration for the athlete did not extend to the point where he would follow his example in taking drugs.
 他对这名运动员的崇拜还不至于到效仿他吸毒的程度。
+4.
+follow 跟随
+来自Proto-Germanicfulg, 陪伴，跟随，词源同full. 部分学者解释g来自gan, 走，词源同gang. 即跟着走的人，随从。
+
+
+# follow <观察-举例> ['fɑlo]
+++ ( following, followed, follows )
 V-T -- If you follow something, you take an interest in it and keep informed about what happens. 随时关注
 •  ...the millions of people who follow football because they genuinely love it.
 …数百万人随时关注足球是因为真正热爱足球。
@@ -2164,24 +2158,27 @@ follow 跟随
 来自Proto-Germanicfulg, 陪伴，跟随，词源同full. 部分学者解释g来自gan, 走，词源同gang. 即跟着走的人，随从。
 
 
-# follow <note> ['fɑlo]
+# follow <as follows>- ['fɑlo]
 ++ ( following, followed, follows )
-V-T -- If you follow a particular religion or political belief, you have that religion or belief. 信奉 (宗教或政治主张)
-•  "Do you follow any particular religion?"—"Yes, we're all Hindus."
-“你们信什么教吗？” —“信，我们都是印度教教徒。”
+PHRASE -- You use as follows in writing or speech to introduce something such as a list, description, or an explanation. 如下
+•  The winners are as follows: E. Walker; R. Foster; R. Gates; A. Mackintosh.
+获胜者如下：E.沃克、R.福斯特、R.盖茨和A.麦金托什。
 4.
 follow 跟随
 来自Proto-Germanicfulg, 陪伴，跟随，词源同full. 部分学者解释g来自gan, 走，词源同gang. 即跟着走的人，随从。
 
 
-# follow <UNDERSTAND> ['fɑlo]
+
+# follow <理论> ['fɑlo]
 ++ ( following, followed, follows )
 NaNV-T/V-I -- If you are able to follow something such as an explanation or the story of a film, you understand it as it continues and develops. 理解
 •  Can you follow the plot so far?
 你到目前能理解这个情节吗？
 •  I'm sorry, I don't follow.
 对不起，我不理解。
- -- → see also following
+V-T -- If you follow a particular religion or political belief, you have that religion or belief. 信奉 (宗教或政治主张)
+•  "Do you follow any particular religion?"—"Yes, we're all Hindus."
+“你们信什么教吗？” —“信，我们都是印度教教徒。”
 4.
 follow 跟随
 来自Proto-Germanicfulg, 陪伴，跟随，词源同full. 部分学者解释g来自gan, 走，词源同gang. 即跟着走的人，随从。
@@ -2202,27 +2199,28 @@ soar 高飞，翱翔，急升，猛增
 缩写自古法语 essorer,高飞，飞升，来自通俗拉丁语exaurare,升空，来自 ex-,向外，aura,空 气，呼吸，词源同 air.引申诸相关词义。
 
 
-# individual <note> [,ɪndɪ'vɪdʒuəl]
+# individual <形容词> [,ɪndɪ'vɪdʒuəl]
 ++ ( individuals )
 ADJ [ADJ n] -- Individual means relating to one person or thing, rather than to a large group. 单独的
 •  ...waiting for the group to decide rather than making individual decisions.
 …等待集体作决定而不是作单独的决定。
 ADV -- individually 单独地
-•  ...individually crafted tiles.
+•  ...individually crafted [kræft] tiles.
 …一块块单独制作的瓦片。
-N-COUNT -- An individual is a person. 个人
-•  ...anonymous individuals who are doing good things within our community.
-…一些在我们社区里做好事不留名人士。
+craft [kræft] n. 工艺；手艺；太空船
+ADJ [表赞许] -- If you describe someone or something as individual, you mean that you admire them because they are very unusual and do not try to imitate other people or things. 独特的
+•  It was really all part of her very individual personality.
+那确实是她非常独特个性的全部。
 4.
 individual 个人，个体
 in-,不，非，divide,分开，分割。即不可分割的，原指耶稣的圣父，圣灵，圣子三位一体不可分开，后用来指单个的人，个人，个体。
 
 
-# individual <note> [,ɪndɪ'vɪdʒuəl]
+# individual <名词> [,ɪndɪ'vɪdʒuəl]
 ++ ( individuals )
-ADJ [表赞许] -- If you describe someone or something as individual, you mean that you admire them because they are very unusual and do not try to imitate other people or things. 独特的
-•  It was really all part of her very individual personality.
-那确实是她非常独特个性的全部。
+N-COUNT -- An individual is a person. 个人
+•  ...anonymous individuals who are doing good things within our community.
+…一些在我们社区里做好事不留名人士。
 4.
 individual 个人，个体
 in-,不，非，divide,分开，分割。即不可分割的，原指耶稣的圣父，圣灵，圣子三位一体不可分开，后用来指单个的人，个人，个体。
@@ -2234,10 +2232,15 @@ N-COUNT -- A spotlight is a powerful light, for example in a theatre, which can 
 V-T -- If something spotlights a particular problem or situation, it makes people notice it and think about it. 使备受关注
 •  The budget crisis also spotlighted a weakening economy.
 预算危机也使日益衰弱的经济备受关注。
+4.
+
+# spotlight -<in the spotlight> ['spɑtlaɪt]
+++ ( spotlighting, spotlighted, spotlights )
 PHRASE -- Someone or something that is in the spotlight is getting a great deal of public attention. 瞩目中
 •  Webb is back in the spotlight.
 韦布又重新受到瞩目。
 4.
+
 
 
 # stifle <note> ['staɪfl]
@@ -2288,7 +2291,7 @@ kid,小孩，nap,抓走，来自nab拼写变体。原指19世纪偷或抓小孩�
 
 # vowel <note> ['vaʊəl]
 ++ ( vowels )
-N-COUNT -- A vowel is a sound such as the ones represented in writing by the letters , , ,  and , that you pronounce with your mouth open, allowing the air to flow through it. Compare . 元音
+N-COUNT -- A vowel is a sound such as the ones represented in writing by the letters a, e, i, o, and u, that you pronounce with your mouth open, allowing the air to flow through it. Compare . 元音
 •  The vowel in words like "my" and "thigh" is not very difficult.
 在“”和“”这样的单词中的元音并不难发。
 4.
@@ -2296,11 +2299,21 @@ vowel 元音
 缩写自拉丁语littera vocalis,发音字母。
 
 
-# content <NOUN USES> ['kɑntɛnt]
+# content <物品> ['kɑntɛnt]
 ++ ( contents )
 NaNN-PLURAL -- The contents of a container such as a bottle, box, or room are the things that are inside it. (瓶子、盒子或房间的) 所容之物
 •  Empty the contents of the pan into the sieve.
 将平锅里的东西全部倒入漏勺。
+N-SING -- You can use content to refer to the amount or proportion of something that a substance contains. 含量
+•  Sunflower margarine has the same fat content as butter.
+葵花籽人造黄油跟黄油的脂肪含量一样。
+4.
+content 内容，满意的
+con-, 强调。-ten, 持有，握住，词源同tenable, tenure. 即包含于其中的，心满意足的。
+
+
+# content <文字内容> ['kɑntɛnt]
+++ ( contents )
 N-PLURAL -- The contents of a book are its different chapters and sections, usually shown in a list at the beginning of the book. (书的) 目录
 •  There is no Table of Contents.
 没有目录。
@@ -2309,19 +2322,9 @@ N-UNCOUNT [also N in pl, usu N 'of' n] -- If you refer to the content or content
 她不愿讨论这部话剧的内容。
 •  Stricter controls were placed on the content of videos.
 对录像的内容有了更严格的控制。
-4.
-content 内容，满意的
-con-, 强调。-ten, 持有，握住，词源同tenable, tenure. 即包含于其中的，心满意足的。
-
-
-# content <note> ['kɑntɛnt]
-++ ( contents )
 N-UNCOUNT -- The content of something such as an educational course or a programme of action is the elements that it consists of. (课程或计划的) 内容
 •  Previous students have had nothing but praise for the course content and staff.
 以前的学生们对该课程的内容和教师只有称赞。
-N-SING -- You can use content to refer to the amount or proportion of something that a substance contains. 含量
-•  Sunflower margarine has the same fat content as butter.
-葵花籽人造黄油跟黄油的脂肪含量一样。
 4.
 content 内容，满意的
 con-, 强调。-ten, 持有，握住，词源同tenable, tenure. 即包含于其中的，心满意足的。
@@ -2337,16 +2340,9 @@ NaNADJ [v-link ADJ] -- If you are content with something, you are willing to acc
 ADJ [v-link ADJ] -- If you are content, you are fairly happy or satisfied. 满意的
 •  He says his daughter is quite content.
 他说他的女儿颇为满意。
-V -- to make (oneself or another person) content or satisfied 使满足
+V -- to make oneself or another person content or satisfied 使满足
 •  to content oneself with property
-4.
-content 内容，满意的
-con-, 强调。-ten, 持有，握住，词源同tenable, tenure. 即包含于其中的，心满意足的。
-
-
-# content <note> ['kɑntɛnt]
-++ ( contents )
- -- to your heart's content →see heart
+满足于拥有财产
 4.
 content 内容，满意的
 con-, 强调。-ten, 持有，握住，词源同tenable, tenure. 即包含于其中的，心满意足的。
@@ -2366,3 +2362,213 @@ N-COUNT -- The properties of a substance or object are the ways in which it beha
 4.
 property 财产，房产，不动产
 来自proper,个人的，-ty,名词后缀。即个人或私人所有的财产或财物。
+
+# bully <动词> ['bʊli]
+++ ( bullying, bullied, bullies )
+N-COUNT -- A bully is someone who uses their strength or power to hurt or frighten other people. 恃强凌弱者
+•  I fell victim to the office bully.
+我成了这个办公室霸王欺负的对象。
+N-UNCOUNT -- bullying 欺凌行为
+•  ...schoolchildren who were victims of bullying.
+…遭受欺凌的小学生。
+4.
+bully 欺负
+来自brother 昵称。原指老大哥，起保护作用，但也可随时以大欺小。
+
+
+# bully <名词> ['bʊli]
+++ ( bullying, bullied, bullies )
+V-T -- If someone bullies you, they use their strength or power to hurt or frighten you. 欺负
+•  I wasn't going to let him bully me.
+我可不会让他欺负我。
+V-T -- If someone bullies you into something, they make you do it by using force or threats. 威逼
+•  We think an attempt to bully them into submission would be counterproductive [,kaʊntɚprə'dʌktɪv].
+我们认为威逼他们屈服的尝试可能会适得其反。
+counterproductive [,kaʊntɚprə'dʌktɪv] adj. 反生产的；使达不到预期目标的
+•  She used to bully me into doing my schoolwork.
+她过去总逼我做作业。
+INTERJ [非正式] -- well done! bravo [,brɑ'vo]! 真棒 (Also bully for you)
+bravo [,brɑ'vo] n. 喝彩；亡命徒
+4.
+bully 欺负
+来自brother 昵称。原指老大哥，起保护作用，但也可随时以大欺小。
+
+# counterproductive <note> [,kaʊntɚprə'dʌktɪv]
+ADJ -- Something that is counterproductive achieves the opposite result from the one that you want to achieve. 产生相反结果的
+•  In practice, however, such an attitude is counterproductive.
+然而在实际中，这种态度会适得其反。
+4.
+
+
+# lull <note> [lʌl]
+++ ( lulling, lulled, lulls )
+N-COUNT -- A lull is a period of quiet or calm in a longer period of activity or excitement. 间歇期
+•  There was a lull in political violence after the election of the current president.
+现任总统选举结束以后，政治暴力曾暂时平息。
+V-T -- If you are lulled into feeling safe, someone or something causes you to feel safe at a time when you are not safe. 蒙蔽; 误导
+•  It is easy to be lulled into a false sense of security.
+很容易因受到蒙蔽而产生错误的安全感。
+•  I had been lulled into thinking the publicity would be a trivial matter.
+我曾被误导相信宣传是件小事。
+4.
+lull 催眠，使平静，缓和
+来自中古英语lullen,哄小孩睡觉，来自lu-lu,la-la的催眠声。
+
+
+# meander <note> [mɪ'ændɚ]
+++ ( meandering, meandered, meanders )
+V-I -- If a river or road meanders, it has a lot of bends, rather than going in a straight line from one place to another. 蜿蜒而行
+•  We took a gravel road that meandered through farmland.
+我们走上了一条蜿蜒穿越农田的石子路。
+•  We crossed a small iron bridge over a meandering stream.
+我们穿过了蜿蜒小溪上的一座小铁桥。
+V-I -- If you meander somewhere, you move slowly and not in a straight line. 漫步
+•  We meandered through a landscape of mountains, rivers, and vineyards ['vɪnjɚd].
+我们在有群山、河流和葡萄园的风景中漫步。
+4.
+meander 蜿蜒，闲逛
+来自拉丁语meander,蜿蜒的水道，来自希腊语Maiandros,河流名，位于现土耳其境内。由于这条河流非常曲折，因此，引申词义蜿蜒，闲逛，散步等。该河流名字面意思可能为伟大的男人或善变的男人，来自andro-,男人，词源同android,mai-,伟大的，词源同magnate,或善变的，词源同mutable.
+
+
+# tumble <动作> ['tʌmbl]
+++ ( tumbling, tumbled, tumbles )
+V-I -- If someone or something tumbles somewhere, they fall there with a rolling or bouncing movement. 摔倒
+•  A small boy tumbled off the porch.
+一个小男孩从门廊上摔了下去。
+N-COUNT [usu sing] -- Tumble is also a noun. 摔
+•  He injured his ribs in a tumble from his horse.
+他从马上摔下来伤了肋骨。
+V-I -- If water tumbles, it flows quickly over an uneven surface. (水流) 翻滚
+•  Waterfalls crash and tumble over rocks.
+瀑布在岩石上撞击翻滚。
+4.
+tumble 翻滚，打滚，倒塌，坍塌
+来自古英语 tumbian,跳舞，跳跃，翻滚，来自 Proto-Germanictumona,旋转，转动，词源同 tumbler,tumbrel.-le,表反复。引申诸相关词义。
+
+
+# tumble <价格-水平> ['tʌmbl]
+++ ( tumbling, tumbled, tumbles )
+N-COUNT -- Tumble is also a noun. (价格或水平的) 暴跌
+•  Oil prices took a tumble yesterday.
+石油价格昨天一阵暴跌。
+V-I [journalism] -- If prices or levels of something are tumbling, they are decreasing rapidly. (价格或水平) 暴跌
+•  Profit after taxes tumbled by half to $15.8 million.
+税后利润猛降了一半，跌到了1580万美元。
+•  Share prices continued to tumble today on the Tokyo stock market.
+东京股市今天的股票价格继续暴跌。
+4.
+tumble 翻滚，打滚，倒塌，坍塌
+来自古英语 tumbian,跳舞，跳跃，翻滚，来自 Proto-Germanictumona,旋转，转动，词源同 tumbler,tumbrel.-le,表反复。引申诸相关词义。
+
+
+# live <日常> [lɪv]
+++ ( living, lived, lives )
+NaNV-I -- If someone lives in a particular place or with a particular person, their home is in that place or with that person. 居住
+•  She has lived here for 10 years.
+她在这里住了10年了。
+•  Where do you live?
+你住在哪里？
+V-T/V-I -- If you say that someone lives in particular circumstances or that they live a particular kind of life, you mean that they are in those circumstances or that they have that kind of life. 生活
+•  We lived quite grandly.
+我们生活得相当快乐。
+•  Compared to people living only a few generations ago, we have greater opportunities to have a good time.
+与生活在仅仅几代之前的人相比，我们有更大的过得快乐的机会。
+4.
+live 居住，生活，生动的，现场真播的
+来自life的动词形式。
+
+# live <状态> [lɪv]
+++ ( living, lived, lives )
+V-T/V-I -- To live means to be alive. If someone lives to a particular age, they stay alive until they are that age. 活着,存活
+•  He's got a terrible disease and will not live long.
+他得了一种重病，活不长了。
+•  He lived to be 103.
+他活到了103岁。
+NaNADJ [ADJ n] -- Live animals or plants are alive, rather than being dead or artificial. 活的
+•  ...a protest against the company's tests on live animals.
+…反对该公司对活的动物进行实验的抗议。
+4.
+live 居住，生活，生动的，现场真播的
+来自life的动词形式。
+
+
+
+# live <目的> [lɪv]
+++ ( living, lived, lives )
+V-I -- If you say that someone lives for a particular thing, you mean that it is the most important thing in their life. (为…而) 活
+•  He lived for his work.
+他为了工作而活。
+V-I [no cont] -- If people live by doing a particular activity, they get the money, food, or clothing they need by doing that activity. 以…为生
+•  ...the last indigenous people to live by hunting.
+…最后一个以打猎为生的土著民族。
+4.
+live 居住，生活，生动的，现场真播的
+来自life的动词形式。
+
+
+# live -<live it up> [lɪv]
+++ ( living, lived, lives )
+PHRASE [非正式] -- If you live it up, you have a very enjoyable and exciting time, for example by going to lots of parties or going out drinking with friends. 尽情玩乐
+•  There is no reason why you couldn't live it up once in a while.
+没有理由不让你偶尔尽情玩乐一下的。
+4.
+live 居住，生活，生动的，现场真播的
+来自life的动词形式。
+
+
+# live <节目> [lɪv]
+++ ( living, lived, lives )
+ADJ -- A live television or radio programme is one in which an event or performance is broadcast at exactly the same time as it happens, rather than being recorded first. 现场直播的
+•  Murray was a guest on a live radio show.
+默里曾是一个无线电直播节目的嘉宾。
+•  They watch all the live matches.
+他们观看所有现场直播的比赛。
+ADV [ADV after v] -- Live is also an adverb. 现场直播地
+•  It was broadcast live in 50 countries.
+它在50个国家进行了现场直播。
+4.
+live 居住，生活，生动的，现场真播的
+来自life的动词形式。
+
+
+# live <节目-人> [lɪv]
+++ ( living, lived, lives )
+ADJ -- A live performance is given in front of an audience, rather than being recorded and then broadcast or shown in a film. 现场表演的
+•  The Rainbow has not hosted live music since the end of 1981.
+彩虹乐队自1981年底以来还没有举办过现场音乐会。
+•  A live audience will pose the questions.
+一位现场观众将会提些问题。
+ADV [ADV after v] -- Live is also an adverb. 现场表演地
+•  Kat Bjelland has been playing live with her new band.
+凯特·本杰拉德与她的新乐团一直在进行现场表演。
+4.
+live 居住，生活，生动的，现场真播的
+来自life的动词形式。
+
+
+# live <军事&其他> [lɪv]
+++ ( living, lived, lives )
+ADJ -- Live bullets are made of metal, rather than rubber or plastic, and are intended to kill people rather than injure them. 实 (弹) 的
+•  They trained in the jungle using live ammunition.
+他们在丛林里使用真枪实弹进行训练。
+ADJ -- A live wire or piece of electrical equipment is directly connected to a source of electricity. 带电的
+•  The plug broke, exposing live wires.
+插头坏了，露出带电的电线。
+4.
+live 居住，生活，生动的，现场真播的
+来自life的动词形式。
+
+# stiff <程度> [stɪf]
+++ ( stiffer, stiffest )
+ADJ -- Stiff can be used to mean difficult or severe. 艰难的; 激烈的
+•  She faces stiff competition in the Best Actress category.
+她在最佳女演员这个奖项上面临着激烈的竞争。
+ADJ [v n ADJ] -- Stiff is also an adjective. 极度的
+•  Even if he bores you stiff, it is good manners not to let him know it.
+即使他把你烦透了，出于礼貌你也不能让他看出来。
+ADV [非正式] [adj ADV] -- If you are bored stiff, worried stiff, or scared stiff, you are extremely bored, worried, or scared. 极度地
+•  Anna tried to look interested. Actually, she was bored stiff.
+安娜试图装出感兴趣的样子。实际上她都厌烦透了。
+4.
+stiff 硬的，僵硬的，生硬的，艰难的
+来自古英语 stif,硬的，僵硬的，来自 Proto-Germanicstifaz,僵硬的，无弹性的，来自 PIEsteip, 压紧，打包，塞满，可能来自 PIEsteu,推，挤，击打，词源同 steep,stoop,stuff.

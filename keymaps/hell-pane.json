@@ -8,6 +8,7 @@
     "alt-shift-s": "hell-pane:get_brief",
     "alt-shift-v": "hell-pane:get_single_cigen",
     "alt-shift-f": "hell-pane:get_translation",
-    "alt-shift-m": "hell-pane:get_single_phonetic"
+    "alt-shift-m": "hell-pane:get_single_phonetic",
+    "alt-shift-c": "hell-pane:gen_compare"
   }
 }
