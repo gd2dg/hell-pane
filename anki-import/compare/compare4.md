@@ -1,3 +1,3 @@
-# repetition, petition
+# chilly,chili
 
-# repetition, petition
+# chord, chorus
