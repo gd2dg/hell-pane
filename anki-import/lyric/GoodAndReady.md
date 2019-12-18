@@ -1,10 +1,8 @@
-1.
 Let me die in a heartbeat, not slow and steady
 Let me die in my sleep when I’m good & ready
 Let me die in the ocean, you can bury me at sea
 Let me die in a coat train, you can burn my body
 
-2.
 Let me die in the dessert, in the sea of sand
 Let me die in the pleasure of a one night stand
 Let me die in the forest with the first spring thaw
@@ -15,7 +13,6 @@ I don’t want to wake up, whispering the blues
 I don’t wanna wake up, what else can I do?
 I don’t want to wake up if it ain’t next to you
 
-3.
 Let me die in my new suit, I want to look my best
 Let me die maybe real soon, I could use the rest
 Let me die in a bar fight with a broken nose
@@ -31,7 +28,6 @@ They gon’na lay me down (they gon’na lay me down)
 In a long white gown (in a long white gown)
 Slowly lower me underground
 
-4.
 Let me die on a Sunday for to stay outta hell
 Let me die on the subway, could they even tell?
 Let me die when the war ends, you could paint my face
