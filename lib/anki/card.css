@@ -9,6 +9,13 @@
     padding: 15px 0px;
 }
 
+.cloze-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 .my-question {
     color: rgb(190,116,233);
     font-weight: bolder;
