@@ -33,33 +33,52 @@
     font-size: 120%;
 }
 
-.w-type {
-    color: #FF1493;
-}
-
-.other {
-    color: yellow;
-}
-
 .chi-trans {
     color: rgb(102, 255, 255);
     display:none;
 }
 
+.whole-box-first .w-type {
+    display:none;
+}
+.whole-box-first .chi-trans {
+    display:none;
+}
+.whole-box-first .other {
+    display:none;
+}
+.whole-box-first .chi-trans-detail {
+    display:none;
+}
+.whole-box-first .en-trans {
+    display:none;
+}
+.whole-box-first .example-other {
+    color:palegoldenrod;
+	display:none;
+}
+
+.w-type {
+    color: #FF1493;
+}
+.chi-trans {
+    color: rgb(102, 255, 255);
+    display:none;
+}
+.other {
+    color: yellow;
+}
 .chi-trans-detail {
     color: rgb(80,238,139);
     display:none;
 }
-
 .en-trans {
     color:white;
     display:none;
 }
-
 .example {
     color:palegoldenrod;
 }
-
 .example-other {
     color:palegoldenrod;
 	display:none;
