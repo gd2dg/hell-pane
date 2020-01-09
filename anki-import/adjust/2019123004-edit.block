@@ -13,7 +13,7 @@ verbal 言语的
 来自verb,言语。
 
 
-# verbal <note> ['vɝbl]
+# verbal <GRAMMER> ['vɝbl]
 ADJ -- In grammar, verbal means relating to a verb. 动词的
 •  ...a verbal noun.
 …一个动名词。
@@ -24,17 +24,8 @@ verbal 言语的
 
 # transfusion <note> [trænz'fjʊʒən]
 ++ ( transfusions )
-N-VAR -- A transfusion is the same as a . 输血
+n. [临床] 输血；[临床] 输液；倾注；灌输
 4.
-
-
-# apostrophe <note> [ə'pɑstrəfi]
-++ ( apostrophes )
-N-COUNT -- An apostrophe is the mark ' when it is written to indicate that one or more letters have been left out of a word, as in "isn't" and "we'll." It is also added to nouns to form possessives, as in "Mike's car." 撇号
-N-COUNT [rhetoric] -- a digression from a discourse, esp an address to an imaginary or absent person or a personification 呼语; 尤指对不在场者或拟人事物所说话语
-4.
-apostrophe 撇号
-前缀apo-, 从，从...离开。-strophe, 转，同stir, 搅动。
 
 
 # womb <note> [wum]
@@ -42,19 +33,41 @@ apostrophe 撇号
 N-COUNT -- A woman's womb is the part inside her body where a baby grows before it is born. 子宫
 •  ...the development of the fetus in the womb.
 …胎儿在子宫里的发育。
+fetus ['fitəs] n. 胎儿，胎
 4.
 womb 子宫
 词源不详。
 
+# fetus <note> ['fitəs]
+++ ( fetuses )
+N-COUNT -- A fetus is an animal or human being in its later stages of development before it is born. 胎儿
+•  Pregnant women who are heavy drinkers risk damaging the unborn fetus.
+酗酒的孕妇冒有伤害胎儿的危险。
+4.
+fetus 胎儿
+来自fe, 吮吸，吸奶，词源同female, filial. 用来指胎儿。
 
-# digression
+
+# digress <note> [daɪ'ɡrɛs]
+++ ( digressing, digressed, digresses )
+V-I -- If you digress, you move away from the subject you are talking or writing about and talk or write about something different for a while. 离题
+•  I've digressed a little to explain the situation so far, so let me now recap.
+我刚才稍微离题说明了迄今的情况，现在让我重述一下要点。
+•  She digressed from her prepared speech to pay tribute to the president.
+她偏离了预先准备的讲稿，对总统表示了敬意。
+N-VAR -- digression 名词
+•  The text is dotted with digressions.
+文本中到处是离题话。
+4.
+digress 偏离
+di-, 分开，散开，来自dis-变体。-gress, 走，词源同grade, ingress. 即走散，偏离。
+
 
 # discourse <note> ['dɪskɔrs]
 ++ ( discourses )
 N-UNCOUNT -- Discourse is spoken or written communication between people, especially serious discussion of a particular subject. (某专题的) 会话
 •  ...a tradition of political discourse.
 …一个政治对话的传统。
- -- → see also direct discourse, indirect discourse
 4.
 discourse 论文，演讲
 dis-, 分开，散开。course, 跑，跑道。原指谈话，全面的了解，后用来指论文，演讲。比较discuss, dissertation.
@@ -66,21 +79,6 @@ N-SING -- If you say that someone is the personification of a particular thing o
 贾尼斯·乔普林是60年代女摇滚歌手的典型。
 N-SING -- the representation of an abstract quality or idea in the form of a person, creature, etc, as in art and literature 象征
 4.
-
-
-# remark <note> [rɪ'mɑrk]
-++ ( remarking, remarked, remarks )
-V-T/V-I -- If you remark that something is the case, you say that it is the case. 说; 评论
-•  I remarked that I would go shopping that afternoon.
-我说过那天下午我要去买东西。
-•  On several occasions she had remarked on the boy's improvement.
-有几次她说起过那个男孩的进步。
-N-COUNT -- If you make a remark about something, you say something about it. 议论; 评论
-•  She has made outspoken remarks about the legalization of marijuana.
-她直言不讳地评论过大麻合法化问题。
-4.
-remark 评论，谈论
-re-,表强调，mark,作标记。引申词义评论，谈论。
 
 
 # legend <note> ['lɛdʒənd]
@@ -96,7 +94,8 @@ legend 传说，地图图例，刻印文字
 来自拉丁语legere,读，说，词源同lecture.原指读，讲述宗教圣徒的生平事迹，后词义引申为使徒传说或传奇。现也用于地图图例等词义。
 
 
-# aerobatic
+# aerobatic  /ˌerəˈbætɪk/
+adj. [航] 用特技飞行的
 
 # blame <note> [blem]
 ++ ( blaming, blamed, blames )
@@ -108,22 +107,26 @@ V-T -- If you blame a person or thing for something bad, or if you blame somethi
 N-UNCOUNT -- Blame is also a noun. 责备
 •  Nothing could relieve my terrible sense of blame.
 没什么能把我从极度自责中解脱出来。
-N-UNCOUNT -- The blame for something bad that has happened is the responsibility for causing it or letting it happen. (事故、过失等的) 责任
-•  I'm not going to sit around and take the blame for a mistake he made.
-我不会闲坐着，为他犯的错误承担责任。
+V-T [usu with brd-neg] -- If you say that you do not blame someone for doing something, you mean that you consider it was a reasonable thing to do in the circumstances. 责怪
+•  I do not blame them for trying to make some money.
+我不怪他们想要挣些钱。
 4.
 blame 责备
 来自 blasphemy的缩写。
 
 
-# blame <note> [blem]
+# blame <The blame for something bad>- [blem]
 ++ ( blaming, blamed, blames )
-V-T [usu with brd-neg] -- If you say that you do not blame someone for doing something, you mean that you consider it was a reasonable thing to do in the circumstances. 责怪
-•  I do not blame them for trying to make some money.
-我不怪他们想要挣些钱。
+N-UNCOUNT -- The blame for something bad that has happened is the responsibility for causing it or letting it happen. (事故、过失等的) 责任
+•  I'm not going to sit around and take the blame for a mistake he made.
+我不会闲坐着，为他犯的错误承担责任。
+
+# blame <If someone is to blame for something bad that has happened>- [blem]
 PHRASE -- If someone is to blame for something bad that has happened, they are responsible for causing it. 该受责备
 •  If their forces were not involved, then who is to blame?
 如果他们的军队没有参与，那么谁应该受到指责呢？
+
+# blame <someone has only themselves to blame or has no one but themselves to blame>- [blem]
 PHRASE -- If you say that someone has only themselves to blame or has no one but themselves to blame, you mean that they are responsible for something bad that has happened to them and that you have no sympathy for them. 只能责怪自己
 •  My life is ruined and I suppose I only have myself to blame.
 我的一生都毁了，我想这只能怪我自己。
@@ -148,7 +151,10 @@ N-UNCOUNT -- Mint is an herb with fresh-tasting leaves. 薄荷
 N-COUNT -- A mint is a sweet with a peppermint flavour. Some people suck mints in order to make their breath smell fresher. 薄荷糖
 •  She popped a mint into her mouth.
 她往嘴里丢了块儿薄荷糖。
-N-COUNT -- Themint is the place where the official coins of a country are made. 造币厂
+
+# mint <The mint>- [mɪnt]
+++ ( minting, minted, mints )
+N-COUNT -- The mint is the place where the official coins of a country are made. 造币厂
 •  In 1965 the mint stopped putting silver in dimes.
 1965年，造币厂停止在10美分铸币中加入银。
 4.
@@ -157,7 +163,7 @@ mint 薄荷
 来自拉丁文moneta,铸币，硬币，词源同money,monetary.引申词义创造或发明。
 
 
-# mint <note> [mɪnt]
+# mint <To mint coins>- [mɪnt]
 ++ ( minting, minted, mints )
 V-T -- To mint coins or medals means to make them in a mint. 铸造
 •  ...the right to mint coins.
@@ -230,17 +236,12 @@ ADJ [det ADJ] -- You use late when you are talking about someone who is dead, es
 •  ...my late husband.
 …我已故的丈夫。
  -- → see also later, latest
-PHRASE -- If an action or event is too late, it is useless or ineffective because it occurs after the best time for it. 太迟的
-•  It was too late to turn back.
-要回头，为时已晚。
-4.
-late 晚的
-来自PIEled,慢的，疲倦的，来自PIEle,放开，松开，松软，词源同late,lenient.引申词义慢的，晚的。
-
 
 # late <note> [let]
 ++ ( later, latest )
- -- a late night →see night
+PHRASE -- If an action or event is too late, it is useless or ineffective because it occurs after the best time for it. 太迟的
+•  It was too late to turn back.
+要回头，为时已晚。
 4.
 late 晚的
 来自PIEled,慢的，疲倦的，来自PIEle,放开，松开，松软，词源同late,lenient.引申词义慢的，晚的。
@@ -2866,3 +2867,9 @@ N-PLURAL -- You can refer to a written record of the discussions at a meeting or
 4.
 proceeding 诉讼，诉讼程序
 来自proceed,前进，进行。引申词义诉讼，诉讼程序。
+
+
+# of <no account> []
+PHRASE -- If you say that something is of no account or of little account, you mean that it is very unimportant and is not worth considering. 无足轻重的
+•  These obscure groups were of little account in either national or international politics.
+这些无名的组织在国内或国际政治中都是无足轻重的。
