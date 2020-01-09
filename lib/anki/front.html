@@ -3,13 +3,23 @@
 </script>
 </head>
 
-<div class="my-question field-box">
-{{Front}} ？
-
-    <audio id="bgMusic" autoplay > <source id="bgSource" src={{Front}} type="audio/mp3"> </audio>
-<audio id="player" controls="control" style="width:95px;display: inline;"> <source src="http://cgdict.com/mp3/{{Word}}_am.mp3" /> </audio>
-<!-- <p id="first">ssss </p> -->
- </div>
+<div class="whole-box front">
+    <div class="my-question field-box">
+        {{Word}}
+    </div>
+    <div class="my-define field-box">
+        {{定义}}
+    </div>
+    <div class="my-point field-box">
+        {{要点}}
+    </div>
+    <div class="my-example field-box">
+        {{举例}}
+    </div>
+    <div class="my-compare field-box">
+        {{比较}}
+    </div>
+</div>
 
  <script >
      window.onload=function(){
