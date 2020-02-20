@@ -16,7 +16,7 @@ I don’t want to wake up if it ain’t next to you
 Let me die in my new suit, I want to look my best
 Let me die maybe real soon, I could use the rest
 Let me die in a bar fight with a broken nose
-Let me die in spotlight, you could pick my pose
+Let me die in spotlight, you could pick my own pose
 
 ‘Cause I don’t wanna wake up losing altitude
 I don’t want to wake up, whispering the blues

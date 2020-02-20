@@ -61,3 +61,46 @@ Wassail, wassail all over the town
 Our toast it is white and our ale it is brown
 Our bowl it is made of the white maple tree
 With the wassailing bowl, we'll drink to thee
+
+speak
+
+trait
+creditor
+relief
+startle
+insane
+pursuer
+sensation
+mildew
+invocation
+rhythmic
+wedge
+engender
+state
+dictatorship
+briefcase
+tear
+slender
+seal
+summon
+bargain
+siege
+hazardous
+hostel
+infarction
+crust
+sweeping
+dagger
+chief
+nationalism
+angina
+dismay
+restraint
+myocardial
+roar
+sting
+stall
+handler
+dawn
+rocky
+dusk
