@@ -15,3 +15,8 @@ N-COUNT [表赞许] -- If you refer to a person or their behaviour as an <b>exam
 4.
 example 例子
 ex-, 向外。-em, 拿出，带出，词源sample, exempt.
+
+
+example
+hello
+morning
