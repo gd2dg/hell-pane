@@ -5,3 +5,4 @@ node_modules
 .tags1
 excel
 archive.md
+package-lock.json
