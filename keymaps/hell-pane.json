@@ -2,7 +2,7 @@
   "atom-workspace": {
     "ctrl-alt-p": "hell-pane:gen_pp_data",
     "ctrl-alt-m": "hell-pane:gen_key_data",
-    "alt-shift-p": "hell-pane:do_some",
+    "alt-shift-p": "hell-pane:test_some",
     "alt-shift-l": "hell-pane:open_config",
     "alt-shift-t": "hell-pane:down_dict",
     "alt-shift-s": "hell-pane:get_brief",
