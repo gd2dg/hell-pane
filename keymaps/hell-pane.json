@@ -12,6 +12,7 @@
     "alt-shift-c": "hell-pane:gen_compare",
     "alt-shift-w": "hell-pane:save_head",
     "alt-shift-o": "hell-pane:set_head",
-    "alt-shift-d": "hell-pane:fill_note"
+    "alt-shift-d": "hell-pane:fill_note",
+    "ctrl-alt-0": "hell-pane:show_leetcode"
   }
 }
