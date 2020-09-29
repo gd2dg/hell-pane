@@ -1,9 +1,9 @@
 .DS_Store
 npm-debug.log
-node_modules
 leet.html
 .tags
 .tags1
+node_modules
 excel
 archive.md
 package-lock.json
